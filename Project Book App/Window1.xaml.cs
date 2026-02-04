@@ -35,6 +35,9 @@ namespace Project_Book_App
         {
             string[] genres = { "fantasy", "science-fiction", "thriller", "fantastic", "novel", "dark romance", "romance", "historical", "horror", "police", "young-adult" };
             Genres.ItemsSource = genres;
+
+            string[] authors = { };
+            Authors.ItemsSource = authors;
         }
 
         private void AddToWishList_Click(object sender, RoutedEventArgs e)

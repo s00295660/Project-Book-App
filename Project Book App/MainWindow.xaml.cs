@@ -48,6 +48,7 @@ namespace Project_Book_App
             Window3 mainWindow = new Window3();
             Visibility = Visibility.Hidden;
             mainWindow.Show();
+
         }
 
     }

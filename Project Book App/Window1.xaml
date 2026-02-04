@@ -15,21 +15,15 @@
         </Grid.Background>
         <ListBox HorizontalAlignment="Left" Height="223" Margin="48,158,0,0" VerticalAlignment="Top" Width="259" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF482C2C"/>
         <ComboBox x:Name="Genres" HorizontalAlignment="Left" Height="35" Margin="48,92,0,0" VerticalAlignment="Top" Width="113" Background="White" RenderTransformOrigin="0.619,0.529"/>
-        <ComboBox HorizontalAlignment="Left" Height="35" Margin="194,92,0,0" VerticalAlignment="Top" Width="113" Background="White"/>
-        <Rectangle HorizontalAlignment="Left" Height="188" Margin="597,29,0,0" Stroke="#FFCAAFAF" VerticalAlignment="Top" Width="144" Fill="White">
-            <Rectangle.OpacityMask>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="Black"/>
-                    <GradientStop Color="#FF844343" Offset="1"/>
-                </LinearGradientBrush>
-            </Rectangle.OpacityMask>
-        </Rectangle>
+        <ComboBox x:Name="Authors" HorizontalAlignment="Left" Height="35" Margin="194,92,0,0" VerticalAlignment="Top" Width="113" Background="White"/>
         <TextBlock HorizontalAlignment="Left" Height="81" Margin="356,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="350" Background="White" FontSize="18"><Run Language="en-ie" Text="Desciption :"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Height="37" Margin="356,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Background="White" Opacity="0.725" FontSize="20"><Run Language="en-ie" Text="Title"/><LineBreak/><Run Language="en-ie"/></TextBlock>
         <Label Content="Genres" HorizontalAlignment="Left" Height="28" Margin="74,45,0,0" VerticalAlignment="Top" Width="62" Background="White" Foreground="#E5000000" FontSize="16"/>
         <Label Content="Authors" HorizontalAlignment="Left" Height="28" Margin="215,45,0,0" VerticalAlignment="Top" Width="71" Background="White" Foreground="#E5000000" FontSize="16"/>
         <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Height="30" Margin="10,10,0,0" VerticalAlignment="Top" Width="64" Click="Back_Click" Background="#FF54002A"/>
         <Button x:Name="AddToWishList" Content="Add" HorizontalAlignment="Left" Height="30" Margin="400,102,0,0" VerticalAlignment="Top" Width="101" Background="Black" BorderBrush="Black" Click="AddToWishList_Click"/>
-        <Image HorizontalAlignment="Left" Height="53" Margin="400,217,0,0" VerticalAlignment="Top" Width="50"/>
+        <Label Content="Grade" HorizontalAlignment="Center" Height="35" Margin="0,217,0,0" VerticalAlignment="Top" Width="63" Background="White" Foreground="#E5000000" FontSize="20"/>
+        <Rectangle HorizontalAlignment="Left" Height="40" Margin="460,212,0,0" Stroke="Black" VerticalAlignment="Top" Width="124" Fill="#FFFFFDFD" Opacity="0.7"/>
+        <materialDesign:RatingBar HorizontalAlignment="Left" Height="35" Margin="460,217,0,0" VerticalAlignment="Top" Width="142" Foreground="#FF5000DE"/>
     </Grid>
 </Window>
