@@ -1,0 +1,28 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Book_App"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="Project_Book_App.Window2"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowStyle="SingleBorderWindow" Background="#FFC11A1A" Foreground="#FFBB3838"
+        
+        >
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/bookshelf.jpg"/>
+        </Grid.Background>
+        <ListBox HorizontalAlignment="Left" Height="218" Margin="71,172,0,0" VerticalAlignment="Top" Width="257" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF562C2C"/>
+        <Label Content="Books read" HorizontalAlignment="Left" Height="35" Margin="71,120,0,0" VerticalAlignment="Top" Width="108" Background="Black" FontFamily="Perpetua" FontSize="22"/>
+        <Label Content="Comment" HorizontalAlignment="Left" Height="30" Margin="418,300,0,0" VerticalAlignment="Top" Width="95" Background="White" Foreground="#E5000000" FontFamily="Perpetua" FontSize="22"/>
+        <Label Content="Grade" HorizontalAlignment="Left" Height="30" Margin="418,242,0,0" VerticalAlignment="Top" Width="68" Background="White" Foreground="#E5000000" FontFamily="Perpetua" FontSize="22"/>
+        <Image HorizontalAlignment="Left" Height="206" Margin="552,10,0,0" VerticalAlignment="Top" Width="166"/>
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Height="35" Margin="31,21,0,0" VerticalAlignment="Top" Width="79" Click="Back_Click" Background="Black"/>
+
+        <TextBox HorizontalAlignment="Left" Height="75" Margin="418,330,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="339" Background="White" Foreground="Black"/>
+        <materialDesign:RatingBar HorizontalAlignment="Left" Margin="524,244,0,0" VerticalAlignment="Top" Height="26" Width="156" Foreground="#FFB7FF00" FontSize="24" BorderBrush="#FFFFB207" Background="#FFFFF502" OpacityMask="#FFDAFF01"/>
+    </Grid>
+</Window>

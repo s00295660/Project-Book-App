@@ -1,0 +1,34 @@
+﻿<Window x:Class="Project_Book_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Book_App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowStyle="ToolWindow"
+        
+        Style="{StaticResource MaterialDesignWindow}">
+
+
+
+    <Grid>
+
+        <Image Margin="8,-231,2,-140" Source="/books background 3.jpg" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.162"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Rectangle HorizontalAlignment="Left" Height="447" Margin="453,-13,0,0" VerticalAlignment="Top" Width="347" OpacityMask="#FF1F0C0C" Stroke="Black" Fill="Black" Opacity="0.5"/>
+
+        <Button x:Name="Profile" Content="Profile" HorizontalAlignment="Left" Height="42" Margin="661,23,0,0" VerticalAlignment="Top" Width="95" FontFamily="Sylfaen" Background="#FFB73A3A" BorderBrush="Black" Click="Profile_Click"/>
+        <Button x:Name="Search" Content="Search" HorizontalAlignment="Left" Height="48" Margin="554,153,0,0" VerticalAlignment="Top" Width="127" FontFamily="Sylfaen" FontSize="18" Background="#FF9E0000" BorderBrush="Black" Click="Search_Click"/>
+        <Button x:Name="Library" Content="Library" HorizontalAlignment="Left" Height="48" Margin="554,267,0,0" VerticalAlignment="Top" Width="127" FontFamily="Sylfaen" Cursor="Hand" Background="#FFD83535" FontSize="18" BorderBrush="Black" Click="Library_Click"/>
+    </Grid>
+</Window>
