@@ -14,7 +14,7 @@
             <ImageBrush ImageSource="/book background 5.png"/>
         </Grid.Background>
         <ListBox HorizontalAlignment="Left" Height="223" Margin="48,158,0,0" VerticalAlignment="Top" Width="259" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF482C2C"/>
-        <ComboBox x:Name="Genres" HorizontalAlignment="Left" Height="35" Margin="48,92,0,0" VerticalAlignment="Top" Width="113" Background="White" RenderTransformOrigin="0.619,0.529"/>
+        <ComboBox x:Name="Genres" HorizontalAlignment="Left" Height="35" Margin="48,92,0,0" VerticalAlignment="Top" Width="113" Background="White" RenderTransformOrigin="0.619,0.529" SelectionChanged="Genres_SelectionChanged" />
         <ComboBox x:Name="Authors" HorizontalAlignment="Left" Height="35" Margin="194,92,0,0" VerticalAlignment="Top" Width="113" Background="White"/>
         <TextBlock HorizontalAlignment="Left" Height="81" Margin="356,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="350" Background="White" FontSize="18"><Run Language="en-ie" Text="Desciption :"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Height="37" Margin="356,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Background="White" Opacity="0.725" FontSize="20"><Run Language="en-ie" Text="Title"/><LineBreak/><Run Language="en-ie"/></TextBlock>

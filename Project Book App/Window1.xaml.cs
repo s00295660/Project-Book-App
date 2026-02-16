@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +23,11 @@ namespace Project_Book_App
         public Window1()
         {
             InitializeComponent();
+            string[] genres = { "fantasy", "science-fiction", "thriller", "fantastic", "novel", "dark romance", "romance", "historical", "horror", "police", "young-adult" };
+            Genres.ItemsSource = genres;
+
+            string[] authors = { };
+            Authors.ItemsSource = authors;
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)
@@ -31,18 +37,15 @@ namespace Project_Book_App
             mainWindow.Show();
         }
 
-        private void Window_Loaded(object sender, RoutedEventArgs e)
-        {
-            string[] genres = { "fantasy", "science-fiction", "thriller", "fantastic", "novel", "dark romance", "romance", "historical", "horror", "police", "young-adult" };
-            Genres.ItemsSource = genres;
-
-            string[] authors = { };
-            Authors.ItemsSource = authors;
-        }
 
         private void AddToWishList_Click(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        private void Genres_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            string selectedGenre = Genres.SelectedItem as string;
         }
     }
 }
