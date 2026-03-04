@@ -20,14 +20,32 @@ namespace Project_Book_App
     /// </summary>
     public partial class Window1 : Window
     {
+        public List<Book> allBook = new List<Book>();
+
         public Window1()
         {
             InitializeComponent();
+
+
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
             string[] genres = { "fantasy", "science-fiction", "thriller", "fantastic", "novel", "dark romance", "romance", "historical", "horror", "police", "young-adult" };
             Genres.ItemsSource = genres;
 
             string[] authors = { };
             Authors.ItemsSource = authors;
+
+            Book b1 = new Book
+            (
+                "Keepers of the lost cities",
+                "Shannon Messenger",
+                "fantasy",
+                "A girl discovers a new world."
+            );
+
+            allBook.Add( b1 );
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)

@@ -13,16 +13,21 @@
         >
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="/bookshelf.jpg"/>
+            <ImageBrush ImageSource="/libb.jpg"/>
         </Grid.Background>
-        <ListBox HorizontalAlignment="Left" Height="218" Margin="71,172,0,0" VerticalAlignment="Top" Width="257" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF562C2C"/>
-        <Label Content="Books read" HorizontalAlignment="Left" Height="35" Margin="71,120,0,0" VerticalAlignment="Top" Width="108" Background="Black" FontFamily="Perpetua" FontSize="22"/>
-        <Label Content="Comment" HorizontalAlignment="Left" Height="30" Margin="418,300,0,0" VerticalAlignment="Top" Width="95" Background="White" Foreground="#E5000000" FontFamily="Perpetua" FontSize="22"/>
-        <Label Content="Grade" HorizontalAlignment="Left" Height="30" Margin="418,242,0,0" VerticalAlignment="Top" Width="68" Background="White" Foreground="#E5000000" FontFamily="Perpetua" FontSize="22"/>
+        <Grid.BindingGroup>
+            <BindingGroup/>
+        </Grid.BindingGroup>
+        <ListBox HorizontalAlignment="Left" Height="218" Margin="71,128,0,0" VerticalAlignment="Top" Width="257" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF445575" BorderBrush="#FF1C1C1F" Opacity="0.875"/>
+        <Label Content="Books read" HorizontalAlignment="Left" Height="34" Margin="122,89,0,0" VerticalAlignment="Top" Width="129" Background="#FF242C6F" FontFamily="Blackadder ITC" Foreground="#FFFFF3F3" FontSize="18" Padding="28,5,4,4"/>
+        <Label Content="Comment" HorizontalAlignment="Left" Height="30" Margin="418,300,0,0" VerticalAlignment="Top" Width="95" Background="White" Foreground="#E5000000" FontFamily="Blackadder ITC" FontSize="22" Padding="8,1,4,4"/>
+        <Label Content="Grade" HorizontalAlignment="Left" Height="39" Margin="418,233,0,0" VerticalAlignment="Top" Width="68" Background="White" Foreground="#E5000000" FontFamily="Blackadder ITC" FontSize="22" Padding="8,4,4,4"/>
         <Image HorizontalAlignment="Left" Height="206" Margin="552,10,0,0" VerticalAlignment="Top" Width="166"/>
-        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Height="35" Margin="31,21,0,0" VerticalAlignment="Top" Width="79" Click="Back_Click" Background="Black"/>
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Height="35" Margin="31,21,0,0" VerticalAlignment="Top" Width="79" Click="Back_Click" Background="#FF3C005A" Foreground="White" FontFamily="Blackadder ITC" FontSize="22" BorderBrush="Black"/>
 
         <TextBox HorizontalAlignment="Left" Height="75" Margin="418,330,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="339" Background="White" Foreground="Black"/>
-        <materialDesign:RatingBar HorizontalAlignment="Left" Margin="524,244,0,0" VerticalAlignment="Top" Height="26" Width="156" Foreground="#FFB7FF00" FontSize="24" BorderBrush="#FFFFB207" Background="#FFFFF502" OpacityMask="#FFDAFF01"/>
+        <TextBox HorizontalAlignment="Left" Height="38" Margin="486,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="159" Background="White" UndoLimit="43" Opacity="0.7"/>
+        <materialDesign:RatingBar HorizontalAlignment="Left" Margin="503,238,0,0" VerticalAlignment="Top" Height="30" Width="125" Foreground="#FFB7FF00" FontSize="24" BorderBrush="#FFFFB207" Background="#FFFFF502" OpacityMask="#FFDAFF01"/>
+        <TextBlock HorizontalAlignment="Center" Height="44" Margin="0,21,0,0" TextWrapping="Wrap" Text="Library" VerticalAlignment="Top" Width="174" Background="#FF2E0075" Foreground="White" FontFamily="Old English Text MT" FontSize="26" Padding="43,4,0,0" Grid.Column="3" Grid.ColumnSpan="5"/>
     </Grid>
 </Window>

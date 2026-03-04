@@ -8,13 +8,14 @@
         Title="Window3" Height="450" Width="800">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="/background profile.jpg"/>
+            <ImageBrush ImageSource="/profile.jpg"/>
         </Grid.Background>
-        <Button Content="Back" HorizontalAlignment="Left" Height="34" Margin="10,10,0,0" VerticalAlignment="Top" Width="93" Click="Button_Click"/>
+        <Button Content="Back" HorizontalAlignment="Left" Height="34" Margin="10,10,0,0" VerticalAlignment="Top" Width="93" Click="Button_Click" Background="#FF824E01" BorderBrush="{x:Null}" FontFamily="Blackadder ITC" FontSize="18"/>
         <TextBox HorizontalAlignment="Left" Height="39" Margin="44,91,0,0" TextWrapping="Wrap" Text="Name : " VerticalAlignment="Top" Width="183" Background="White" FontFamily="Global Serif" FontSize="16"/>
-        <Label Content="Wish-List" HorizontalAlignment="Left" Height="30" Margin="601,35,0,0" VerticalAlignment="Top" Width="85" FontSize="18" FontFamily="Global Serif" Background="#FF545454"/>
-        <ListBox HorizontalAlignment="Left" Height="274" Margin="502,109,0,0" VerticalAlignment="Top" Width="247" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF5D5D5D" Opacity="0.9"/>
-        <Label Content="Books read :" HorizontalAlignment="Left" Height="33" Margin="44,169,0,0" VerticalAlignment="Top" Width="170" Background="Black" FontSize="18" FontFamily="Mongolian Baiti"/>
+        <Label Content="Wish-List" HorizontalAlignment="Left" Height="30" Margin="554,88,0,0" VerticalAlignment="Top" Width="114" FontSize="19" FontFamily="Old English Text MT" Background="#FF4C1F05" Padding="16,3,4,4"/>
+        <ListBox HorizontalAlignment="Left" Height="274" Margin="487,136,0,0" VerticalAlignment="Top" Width="247" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF56351F" Opacity="0.9"/>
+        <Label Content="Books read :" HorizontalAlignment="Left" Height="33" Margin="44,169,0,0" VerticalAlignment="Top" Width="107" Background="Black" FontSize="18" FontFamily="Mongolian Baiti"/>
+        <TextBlock HorizontalAlignment="Center" Height="41" Margin="0,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="197" Background="#FF8C5337" FontFamily="Old English Text MT" FontSize="26" Padding="60,2,0,0"><Run Language="en-ie" Text="Profile"/></TextBlock>
 
     </Grid>
 </Window>

@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Project_Book_App
 {
-    public abstract class Book : IComparable
+    public class Book : IComparable
     {
-        public int ID { get; set; }
+        //public int ID { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
         public string Author { get; set; }
         public string Genre { get; set; }
-        public string ImageURL { get; set; }
+        //public string ImageURL { get; set; }
 
-        public Book(string title, string description, string author, string genre)
+        public Book(string title, string author, string genre, string description)
         {
             Title = title;
             Description = description;
