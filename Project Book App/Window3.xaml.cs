@@ -19,16 +19,34 @@ namespace Project_Book_App
     /// </summary>
     public partial class Window3 : Window
     {
+        public List<Book> WishListt = new List<Book>();
+
         public Window3()
         {
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Back_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow mainWindow = new MainWindow();
-            Visibility = Visibility.Hidden;
-            mainWindow.Show();
+            foreach (Window w in Application.Current.Windows)
+            {
+                if (w is MainWindow)
+                {
+                    w.Show();
+                    break;
+                }
+            }
+            this.Hide();
+        }
+
+        private void WishList_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void Read_Click(object sender, RoutedEventArgs e)
+        {
+            ReadBooks.Text = "0";
         }
     }
 }

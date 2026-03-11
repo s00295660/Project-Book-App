@@ -1,0 +1,2002 @@
+[
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "fantasy",
+    "description": "Kvothe, a legendary wizard and musician, recounts his extraordinary life from gifted student to infamous magician. The story blends music, magic, and adventure in a richly imagined world. It is the first volume of the Kingkiller Chronicle.",
+    "isbn": "9780756404741",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780756404741-M.jpg"
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "genre": "fantasy",
+    "description": "Noble families fight for control of the Iron Throne while ancient supernatural forces awaken beyond a great wall. Political intrigue and brutal conflict shape the fate of the Seven Kingdoms. No character is safe in this sprawling epic.",
+    "isbn": "9780553573404",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553573404-M.jpg"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "genre": "fantasy",
+    "description": "On the war-torn world of Roshar, a young soldier, a brilliant scholar, and a mysterious assassin are drawn together by fate. Massive storms called highstorms regularly batter the land, shaping all life upon it. The first book of the Stormlight Archive establishes an extraordinarily detailed world.",
+    "isbn": "9780765326355",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765326355-M.jpg"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "genre": "fantasy",
+    "description": "A young hobbit inherits a powerful ring and must leave his peaceful home to embark on a perilous quest. Accompanied by a fellowship of elves, dwarves, men, and hobbits, Frodo Baggins journeys toward the dark land of Mordor. Tolkien's masterwork defines the high-fantasy genre.",
+    "isbn": "9780618346257",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780618346257-M.jpg"
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "genre": "fantasy",
+    "description": "In a world of ash and mist, a crew of thieves plots to overthrow an immortal tyrant called the Lord Ruler. Vin, a young street urchin, discovers she has rare magical abilities called Allomancy. The novel reinvents classic fantasy tropes with ingenious magical systems.",
+    "isbn": "9780765311788",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765311788-M.jpg"
+  },
+  {
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "genre": "fantasy",
+    "description": "A crippled torturer, a disgraced barbarian, and a vain swordsman are unlikely heroes in this gritty subversion of fantasy convention. The First Law trilogy begins with a brutally realistic take on war and heroism. Abercrombie's sharp characterisation sets a new standard for grimdark fiction.",
+    "isbn": "9781591025948",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781591025948-M.jpg"
+  },
+  {
+    "title": "Assassin's Apprentice",
+    "author": "Robin Hobb",
+    "genre": "fantasy",
+    "description": "Fitz, the illegitimate son of a prince, is raised in the royal stables and secretly trained as an assassin. He discovers he has the magical Wit, which lets him bond with animals, but this gift is considered shameful. Hobb's emotional depth and complex characters distinguish this series.",
+    "isbn": "9780553573398",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553573398-M.jpg"
+  },
+  {
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "genre": "fantasy",
+    "description": "A gang of con artists known as the Gentleman Bastards operate in a Venice-like city ruled by crime lords and corrupt nobles. When a mysterious figure called the Grey King threatens their schemes, Locke Lamora must fight for his life. The novel is celebrated for its clever heists and witty dialogue.",
+    "isbn": "9780553588941",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553588941-M.jpg"
+  },
+  {
+    "title": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "genre": "fantasy",
+    "description": "Spanning continents and millennia, the Malazan Book of the Fallen begins with gods, sorcerers, and soldiers caught in a struggle for dominance. The ambitious scope and morally ambiguous characters set this apart from conventional fantasy. Erikson builds one of fiction's most intricate and rewarding worlds.",
+    "isbn": "9780765348784",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765348784-M.jpg"
+  },
+  {
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
+    "genre": "fantasy",
+    "description": "Five young villagers are forced to flee their home when dark forces pursue one of them, believing they may be the reincarnation of a legendary hero. Their journey across a vast world of magic and prophecy begins the Wheel of Time series. Jordan's detailed world-building defined a generation of fantasy readers.",
+    "isbn": "9780812511819",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780812511819-M.jpg"
+  },
+  {
+    "title": "Elantris",
+    "author": "Brandon Sanderson",
+    "genre": "fantasy",
+    "description": "Once Elantris was a shining city of gods, but now its inhabitants are cursed to live as hollow, rotting beings. When a young prince is struck by the curse on his wedding day, his fiancée must navigate court intrigue to save him and the kingdom. Sanderson's debut novel showcases his signature inventive magic systems.",
+    "isbn": "9780765350374",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765350374-M.jpg"
+  },
+  {
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "genre": "fantasy",
+    "description": "The first Discworld novel follows Rincewind, a hapless wizard who must guide the world's first tourist across a flat world carried on the backs of four elephants atop a giant turtle. Pratchett's razor-sharp satire of fantasy tropes made Discworld a beloved institution. Absurdist comedy meets genuine adventure.",
+    "isbn": "9780062225672",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062225672-M.jpg"
+  },
+  {
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "genre": "fantasy",
+    "description": "Every ten years a powerful wizard called the Dragon takes a young woman from a nearby village, and this time he chooses Agnieszka — who turns out to have unexpected magical abilities. Set in a fairy-tale landscape inspired by Polish folklore, the novel blends dark romance with vivid adventure. Novik crafts a story both intimate and epic.",
+    "isbn": "9780804179034",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780804179034-M.jpg"
+  },
+  {
+    "title": "The Stormlight Archive: Words of Radiance",
+    "author": "Brandon Sanderson",
+    "genre": "fantasy",
+    "description": "Kaladin and Shallan journey to the Shattered Plains as ancient secrets about the Knights Radiant are revealed. The world of Roshar faces an imminent Desolation as cryptic spren bond with unlikely heroes. The second Stormlight book expands the series' scope to breathtaking effect.",
+    "isbn": "9780765326362",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765326362-M.jpg"
+  },
+  {
+    "title": "The Last Wish",
+    "author": "Andrzej Sapkowski",
+    "genre": "fantasy",
+    "description": "Geralt of Rivia is a witcher — a monster hunter for hire — in a morally grey world where humans are often more monstrous than the creatures he kills. This collection of linked stories introduces the beloved Witcher universe with wit and dark fairy-tale reinventions. Sapkowski subverts fantasy archetypes at every turn.",
+    "isbn": "9780316029186",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316029186-M.jpg"
+  },
+  {
+    "title": "Good Omens",
+    "author": "Terry Pratchett & Neil Gaiman",
+    "genre": "fantasy",
+    "description": "An angel and a demon who have grown fond of life on Earth must work together to prevent the Apocalypse. The Antichrist has been misplaced at birth and is now an ordinary English boy. Pratchett and Gaiman's collaboration is hilarious, warm, and surprisingly moving.",
+    "isbn": "9780060853976",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780060853976-M.jpg"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genre": "fantasy",
+    "description": "A recently released convict called Shadow becomes the assistant to a mysterious con man, only to discover a war brewing between old gods brought to America by immigrants and new gods born from technology and media. Gaiman weaves American mythology and folklore into a road-trip odyssey. The novel is both a love letter and a critique of the American experience.",
+    "isbn": "9780380789030",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780380789030-M.jpg"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "fantasy",
+    "description": "A mysterious black-and-white circus appears without warning and is open only at night, hosting wonders that seem truly magical. Two young magicians, rivals since childhood, discover that the circus is their arena — and that they are falling in love. Morgenstern's lush prose creates an intoxicating atmosphere.",
+    "isbn": "9780307744432",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307744432-M.jpg"
+  },
+  {
+    "title": "Perdido Street Station",
+    "author": "China Miéville",
+    "genre": "fantasy",
+    "description": "In the sprawling, squalid city of New Crobuzon, a scientist and his insect-headed artist lover become entangled with a crisis that threatens the entire city. Miéville's New Weird fiction blends industrial horror with baroque imagination. The novel is a landmark of the genre for its sheer creative ambition.",
+    "isbn": "9780345443021",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780345443021-M.jpg"
+  },
+  {
+    "title": "Spinning Silver",
+    "author": "Naomi Novik",
+    "genre": "fantasy",
+    "description": "A moneylender's daughter is drawn into a dangerous bargain with the winter king of the faeries in this feminist retelling of Rumpelstiltskin. Three women's interlocking stories explore power, sacrifice, and cleverness in a medieval Eastern European setting. Novik's prose is luminous and her heroines unforgettable.",
+    "isbn": "9780399180996",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780399180996-M.jpg"
+  },
+  {
+    "title": "The Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "genre": "fantasy",
+    "description": "A gifted young boy travels to a school for wizards on an island archipelago, only to unleash a terrible shadow creature from the land of the dead. Le Guin's Earthsea cycle is a foundational work of fantasy literature, praised for its philosophical depth and spare, beautiful prose. The themes of pride, shadow, and acceptance remain powerfully resonant.",
+    "isbn": "9780547773742",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780547773742-M.jpg"
+  },
+  {
+    "title": "Tigana",
+    "author": "Guy Gavriel Kay",
+    "genre": "fantasy",
+    "description": "A tyrant has erased the very name of a conquered land from the memories of all who did not live there, and a band of survivors seeks to restore their identity and win freedom. Kay writes fantasy suffused with history's beauty and brutality. Tigana is regarded as one of the most emotionally powerful fantasy novels ever written.",
+    "isbn": "9780451457769",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780451457769-M.jpg"
+  },
+  {
+    "title": "The Black Company",
+    "author": "Glen Cook",
+    "genre": "fantasy",
+    "description": "The Black Company is a mercenary unit that has sold its sword to a powerful, ruthless sorceress and finds itself on the wrong side of a fantasy war. Cook's gritty, ground-level perspective changed how readers thought about soldiers and morality in fantasy. Annalist Croaker's dry voice is one of genre fiction's great narrative inventions.",
+    "isbn": "9780812508178",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780812508178-M.jpg"
+  },
+  {
+    "title": "Malazan Book of the Fallen: Deadhouse Gates",
+    "author": "Steven Erikson",
+    "genre": "fantasy",
+    "description": "A massive refugee column flees across a desert in a harrowing journey known as the Chain of Dogs, while the Whirlwind rebellion tears an empire apart. Erikson's second Malazan novel is praised as one of fantasy's greatest depictions of mass suffering and military heroism. The tragedy of the Chain of Dogs is unforgettable.",
+    "isbn": "9780765348791",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765348791-M.jpg"
+  },
+  {
+    "title": "A Wizard's Guide to Defensive Baking",
+    "author": "T. Kingfisher",
+    "genre": "fantasy",
+    "description": "Fourteen-year-old Mona can make bread come to life — a minor magical gift that becomes critical when someone begins murdering other child mages in her city. This whimsical yet surprisingly dark tale blends middle-grade humour with real stakes and emotional honesty. Kingfisher is at her best when mixing cosy and sinister.",
+    "isbn": "9781614505044",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781614505044-M.jpg"
+  },
+  {
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "genre": "fantasy",
+    "description": "A standalone epic fantasy set across three continents follows a queen who harbours a dangerous secret, a dragonrider, and a lady-in-waiting spy as a world-ending dragon stirs from ancient sleep. Shannon builds a matriarchal world with genuine depth and diversity. The novel is a love letter to female-led fantasy epics.",
+    "isbn": "9781635570298",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781635570298-M.jpg"
+  },
+  {
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "genre": "fantasy",
+    "description": "Piranesi lives in a mysterious house of infinite halls filled with tides, clouds, and the statues of forgotten gods — and he believes he is one of only two living people in existence. Clarke's second novel is a puzzle-box mystery of identity and reality told in diary form. Strange, beautiful, and impossible to put down.",
+    "isbn": "9781635575606",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781635575606-M.jpg"
+  },
+  {
+    "title": "The Bear and the Nightingale",
+    "author": "Katherine Arden",
+    "genre": "fantasy",
+    "description": "In medieval Russia, a young girl with ties to the old gods must protect her village when a new priest's faith begins to starve the household spirits that have always guarded the people. Arden draws on Slavic folklore to create a haunting winter atmosphere. The Winternight trilogy begins with this stunning debut.",
+    "isbn": "9781101885932",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781101885932-M.jpg"
+  },
+  {
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "genre": "fantasy",
+    "description": "Two rival magicians attempt to restore magic to England during the Napoleonic Wars, but their ambitions unleash dangerous forces from Faerie. Clarke's debut is written in the style of a nineteenth-century novel, complete with extensive footnotes. It is a work of singular imagination and quiet, building dread.",
+    "isbn": "9781582344164",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781582344164-M.jpg"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "science-fiction",
+    "description": "On the desert planet Arrakis, the only source of the universe's most precious substance — the spice melange — a young nobleman named Paul Atreides must navigate treachery, prophecy, and ecological politics. Herbert's masterwork is a meditation on religion, ecology, and power. Dune remains the best-selling science fiction novel of all time.",
+    "isbn": "9780441013593",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780441013593-M.jpg"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "science-fiction",
+    "description": "Mathematician Hari Seldon predicts the fall of galactic civilisation and creates a Foundation to shorten the dark age from thirty thousand years to one thousand. Asimov's sweeping saga unfolds over centuries, showing how science and human nature intersect. The series is a cornerstone of science fiction.",
+    "isbn": "9780553293357",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553293357-M.jpg"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genre": "science-fiction",
+    "description": "A brilliant child named Ender Wiggin is recruited to a military academy in space to be trained as Earth's greatest commander against an alien threat. The novel explores the ethics of war and the nature of empathy through a series of increasingly challenging battle simulations. Its twist ending is one of science fiction's most memorable.",
+    "isbn": "9780812550702",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780812550702-M.jpg"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "genre": "science-fiction",
+    "description": "An envoy from a galactic federation visits a planet whose inhabitants are ambisexual, with no fixed gender, and must navigate complex political alliances in a world of ice and intrigue. Le Guin's masterpiece of speculative fiction uses gender as a lens to examine human nature. It won both the Hugo and Nebula Awards.",
+    "isbn": "9780441478125",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780441478125-M.jpg"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "genre": "science-fiction",
+    "description": "A burned-out hacker is hired by a mysterious employer to pull off the ultimate cyberspace heist, navigating a near-future world of corporate zaibatsus and artificial intelligences. Gibson's debut invented the cyberpunk genre and gave us the word 'cyberspace'. Its visions of networked consciousness feel more prescient with each passing decade.",
+    "isbn": "9780441569595",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780441569595-M.jpg"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "science-fiction",
+    "description": "Astronaut Mark Watney is stranded alone on Mars after his crew evacuates during a deadly storm and is forced to survive using only his botanical knowledge and dark humour. Weir's hard-science survival tale was written chapter by chapter and shared online before becoming a worldwide phenomenon. It celebrates scientific problem-solving with irresistible wit.",
+    "isbn": "9780553418026",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553418026-M.jpg"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "science-fiction",
+    "description": "A lone astronaut wakes up with amnesia aboard a spacecraft far from Earth and must piece together why he is there and how to save his solar system. When he discovers he is not alone in space, a remarkable interspecies friendship forms. Weir's most emotionally resonant novel balances hard science with genuine heart.",
+    "isbn": "9780593135204",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg"
+  },
+  {
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "genre": "science-fiction",
+    "description": "Seven pilgrims travel to the time-torn planet Hyperion, each telling their story en route — a tribute to Chaucer that contains some of science fiction's most varied and affecting tales. The Shrike, a creature of blades and time, haunts every narrative. Simmons's Hyperion Cantos begins with this landmark of the genre.",
+    "isbn": "9780553283686",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553283686-M.jpg"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "science-fiction",
+    "description": "Moments before Earth is demolished to make way for a hyperspace bypass, Arthur Dent is whisked off the planet by his alien friend Ford Prefect. What follows is a tour of the absurd universe accompanied by the titular travel guide. Adams's comedy remains the funniest book in science fiction.",
+    "isbn": "9780345391803",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780345391803-M.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "science-fiction",
+    "description": "In a future of total stability, humans are bred in hatcheries, conditioned from birth, and kept compliant with a happiness drug called soma. When a 'Savage' raised outside this world enters it, he brings with him desires for truth, beauty, and freedom. Huxley's dystopia is a chilling portrait of pleasure as control.",
+    "isbn": "9780060850524",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780060850524-M.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "science-fiction",
+    "description": "In the totalitarian superstate of Oceania, Winston Smith works for the Ministry of Truth rewriting history, and begins a doomed rebellion through a secret love affair. Orwell's novel gave the world Big Brother, doublethink, and Room 101. It remains the definitive political dystopia.",
+    "isbn": "9780451524935",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780451524935-M.jpg"
+  },
+  {
+    "title": "Children of Time",
+    "author": "Adrian Tchaikovsky",
+    "genre": "science-fiction",
+    "description": "On a terraformed planet, a species of spiders evolves rapidly toward civilisation over thousands of years, while the last remnants of humanity search desperately for a new home. Tchaikovsky alternates between the spider civilisation and the human generation ships in an audacious structural experiment. The novel won the Arthur C. Clarke Award.",
+    "isbn": "9780316452502",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316452502-M.jpg"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "genre": "science-fiction",
+    "description": "During China's Cultural Revolution, a scientist makes a desperate decision that will threaten humanity's existence four centuries later, when Earth receives its first contact with an alien civilisation. Liu's trilogy blends hard physics with civilisational-scale storytelling. It became China's most celebrated science fiction export.",
+    "isbn": "9780765382030",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765382030-M.jpg"
+  },
+  {
+    "title": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "genre": "science-fiction",
+    "description": "Charlie Gordon, a man with an intellectual disability, undergoes an experimental procedure that triples his intelligence, but as his mind expands he grapples with the cruelty of the world he now perceives. Told through Charlie's journal entries, the novel records both his ascent and his heartbreaking decline. It is a deeply humane meditation on intelligence and loneliness.",
+    "isbn": "9780156030304",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780156030304-M.jpg"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "genre": "science-fiction",
+    "description": "In a near-future America of corporate city-states, a hacker-slash-pizza-delivery-man discovers a digital drug that is somehow also affecting users in the real world. Stephenson's novel coined the term 'metaverse' and anticipated the internet age with dazzling prescience. It is a rocket-paced, idea-stuffed tour de force.",
+    "isbn": "9780553380958",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553380958-M.jpg"
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "genre": "science-fiction",
+    "description": "Meg Murry and her friends travel through time and space using a mysterious phenomenon called a tesseract to rescue her father from an evil force that has enslaved a distant planet. L'Engle's beloved novel blends science, spirituality, and the courage of children. It has introduced generations of young readers to speculative fiction.",
+    "isbn": "9780312367541",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780312367541-M.jpg"
+  },
+  {
+    "title": "Wool",
+    "author": "Hugh Howey",
+    "genre": "science-fiction",
+    "description": "The survivors of a ruined Earth live in a vast underground silo, and anyone who expresses a desire to go outside is sent to their death — cleaning the external lenses before they die. When a new sheriff investigates the mysteries of the silo, she uncovers truths that could unravel everything. Howey's self-published debut became a sensation.",
+    "isbn": "9780544838680",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780544838680-M.jpg"
+  },
+  {
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "genre": "science-fiction",
+    "description": "Elderly citizens are recruited into an interstellar military by having their consciousnesses transferred into young, enhanced bodies, in exchange for service in a brutal war against alien species. Scalzi's tribute to Heinlein's Starship Troopers is full of wit, action, and genuine philosophical weight. It launched one of modern sci-fi's most popular series.",
+    "isbn": "9780765348272",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765348272-M.jpg"
+  },
+  {
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "genre": "science-fiction",
+    "description": "In 2044, a teenage boy obsessed with 1980s pop culture hunts for an Easter egg hidden inside a vast virtual reality world by its eccentric creator, with a corporate villain trying to seize the prize first. Cline's love letter to geek culture became a global phenomenon. The novel's nostalgia-fuelled treasure hunt is enormously fun.",
+    "isbn": "9780307887443",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307887443-M.jpg"
+  },
+  {
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "genre": "science-fiction",
+    "description": "A young man joins Earth's Mobile Infantry and fights humanity's war against an alien species called the Bugs while grappling with questions of citizenship, duty, and the nature of democracy. Heinlein's controversial novel is simultaneously a ripping military adventure and a deeply ideological political tract. It defines the military science fiction subgenre.",
+    "isbn": "9780441783588",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780441783588-M.jpg"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "genre": "science-fiction",
+    "description": "Billy Pilgrim, an American soldier captured at the Battle of the Bulge and present for the firebombing of Dresden, becomes 'unstuck in time' and is also abducted by aliens from the planet Tralfamadore. Vonnegut's anti-war masterpiece refuses linear narrative as a way of confronting the senselessness of violence. It is darkly funny and deeply sad.",
+    "isbn": "9780440180296",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780440180296-M.jpg"
+  },
+  {
+    "title": "Ancillary Justice",
+    "author": "Ann Leckie",
+    "genre": "science-fiction",
+    "description": "The only surviving fragment of a once-great AI warship pursues revenge across the galaxy against the ruler who betrayed it, while also exploring what it means to be an individual. Leckie's debut won the Hugo, Nebula, and Arthur C. Clarke Awards simultaneously. Its use of a single pronoun for all genders was a landmark moment in speculative fiction.",
+    "isbn": "9780316246620",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316246620-M.jpg"
+  },
+  {
+    "title": "Rendezvous with Rama",
+    "author": "Arthur C. Clarke",
+    "genre": "science-fiction",
+    "description": "A massive, cylindrical alien spacecraft enters the solar system and a crew of astronauts explores its mysterious interior before it speeds on toward the sun. Clarke's novel is a masterpiece of hard science fiction that inspires genuine awe at the scale of the universe. The mystery of Rama's builders and purpose is left fascinatingly unresolved.",
+    "isbn": "9780553287899",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553287899-M.jpg"
+  },
+  {
+    "title": "Blindsight",
+    "author": "Peter Watts",
+    "genre": "science-fiction",
+    "description": "A crew of posthumans is sent to investigate a massive alien spacecraft on the edge of the solar system, accompanied by a vampire — a genuinely predatory human sub-species revived from extinction. Watts's ferociously hard-SF novel is a meditation on consciousness, free will, and what it means to be human. It is unsettling and intellectually exhilarating.",
+    "isbn": "9780765319647",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg"
+  },
+  {
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "genre": "science-fiction",
+    "description": "A physicist from an anarchist moon travels to the capitalist twin planet to share a revolutionary theory about time, experiencing the profound differences and hypocrisies of each society. Le Guin's ambiguous utopia is a rigorous thought experiment about political systems and human nature. It is one of the finest political science fiction novels ever written.",
+    "isbn": "9780061054884",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780061054884-M.jpg"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "thriller",
+    "description": "A disgraced journalist and a brilliant but troubled hacker investigate a decades-old disappearance within a wealthy Swedish family while uncovering a web of corruption and violence. Larsson's Millennium series transformed the Scandinavian crime genre globally. The relationship between Lisbeth Salander and Mikael Blomkvist is electrifying.",
+    "isbn": "9780307949509",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307949509-M.jpg"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "thriller",
+    "description": "On the morning of their fifth wedding anniversary, Amy Dunne disappears and all evidence points to her husband Nick — but Amy has been writing a diary that tells a very different story. Flynn's psychological thriller revolutionised the genre with its dual unreliable narrators and vicious social commentary. The twist is genuinely shocking.",
+    "isbn": "9780307588364",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307588364-M.jpg"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "thriller",
+    "description": "Harvard symbologist Robert Langdon is drawn into a murder mystery at the Louvre that leads him through a trail of codes and religious secrets toward a revelation that could shake the foundations of Christianity. Brown's blockbuster is relentlessly paced and packed with puzzles. Whatever its critics say, it is fiendishly readable.",
+    "isbn": "9780307474278",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307474278-M.jpg"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "thriller",
+    "description": "Rachel, an alcoholic divorcée who commutes past her ex-husband's house every day, witnesses something from the train window that draws her into a missing-person investigation. Three women's perspectives interweave in a story of obsession and violence. Hawkins's debut became one of the fastest-selling thrillers in UK history.",
+    "isbn": "9781594634024",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781594634024-M.jpg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "genre": "thriller",
+    "description": "FBI trainee Clarice Starling must enlist the help of the brilliant, cannibalistic psychiatrist Hannibal Lecter to catch a serial killer who skins his victims. The dynamic between Clarice and Lecter is one of fiction's most compelling cat-and-mouse relationships. Harris's novel is a landmark of psychological suspense.",
+    "isbn": "9780312924584",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780312924584-M.jpg"
+  },
+  {
+    "title": "No Country for Old Men",
+    "author": "Cormac McCarthy",
+    "genre": "thriller",
+    "description": "A Texas welder stumbles upon a drug deal gone wrong in the desert and takes the money, only to be hunted by a terrifying, unstoppable assassin named Anton Chigurh. McCarthy's sparse, violent prose creates an atmosphere of inescapable doom. The novel is a meditation on fate, violence, and the passing of an older America.",
+    "isbn": "9780307387134",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307387134-M.jpg"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "thriller",
+    "description": "Three mothers in a wealthy Sydney suburb are each hiding dangerous secrets, and those secrets will all come out at a disastrous school trivia night. Moriarty's novel is a sharp satire of privilege and parenthood that conceals a serious examination of domestic violence. It is brilliant at making comedy and tragedy coexist.",
+    "isbn": "9780399167065",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780399167065-M.jpg"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "genre": "thriller",
+    "description": "A group of elite classics students at a Vermont college murder one of their own and live with the consequences — the novel begins with the killing and works backward to explain how they came to it. Tartt's debut is a dark, literary, and deeply atmospheric examination of beauty, guilt, and intellectual hubris. It is a modern classic.",
+    "isbn": "9781400031702",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781400031702-M.jpg"
+  },
+  {
+    "title": "In the Woods",
+    "author": "Tana French",
+    "genre": "thriller",
+    "description": "A Dublin detective investigates a child's murder in the same woods where he was found as a child, the sole survivor of an incident he cannot remember, standing beside two friends who were never found. French's debut is atmospheric, psychologically rich, and deeply unsettling. The Dublin Murder Squad series sets a new standard for literary crime fiction.",
+    "isbn": "9780143113492",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780143113492-M.jpg"
+  },
+  {
+    "title": "The Lincoln Lawyer",
+    "author": "Michael Connelly",
+    "genre": "thriller",
+    "description": "Defence attorney Mickey Haller works out of the back of a Lincoln Town Car and defends a rich client accused of assault, only to realise the case connects to a past injustice that haunts him. Connelly's writing is sharp, procedural, and morally complex. The Lincoln Lawyer series is one of crime fiction's great pleasures.",
+    "isbn": "9780446618250",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780446618250-M.jpg"
+  },
+  {
+    "title": "Presumed Innocent",
+    "author": "Scott Turow",
+    "genre": "thriller",
+    "description": "A prosecutor investigating the murder of a colleague finds himself the prime suspect, and as the trial unfolds, secrets about the victim and himself emerge. Turow's debut virtually invented the modern legal thriller. The courtroom scenes are tense, the moral ambiguities are genuine, and the ending is genuinely surprising.",
+    "isbn": "9780446359993",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780446359993-M.jpg"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "genre": "thriller",
+    "description": "An agoraphobic woman who spends her days watching her neighbours through her window believes she has witnessed a murder — but the police think she is delusional and drunk. Finn's homage to Hitchcock is an effective psychological thriller that ratchets up the paranoia expertly. Its unreliable narrator keeps readers guessing throughout.",
+    "isbn": "9780062678416",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062678416-M.jpg"
+  },
+  {
+    "title": "Before I Go to Sleep",
+    "author": "S.J. Watson",
+    "genre": "thriller",
+    "description": "Every night Christine Lucas loses her memories of the past twenty years; every morning she must rebuild her identity from clues around her — including a journal she has secretly been keeping. Watson's debut is a tightly constructed psychological thriller that exploits its premise to the full. The paranoia is perfectly sustained.",
+    "isbn": "9780062060556",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062060556-M.jpg"
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "genre": "thriller",
+    "description": "A journalist with a history of self-harm returns to her small hometown in Missouri to investigate the murders of two young girls and finds her own troubled past resurfacing. Flynn's debut is Southern Gothic in its atmosphere and unflinching in its portrayal of femininity, violence, and family dysfunction. It established her as a major voice in psychological fiction.",
+    "isbn": "9780307341556",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307341556-M.jpg"
+  },
+  {
+    "title": "The Couple Next Door",
+    "author": "Shari Lapena",
+    "genre": "thriller",
+    "description": "A couple leave their baby home alone during a dinner party next door, and return to find the infant missing. As the investigation unfolds, each reveals secrets that reframe the story. Lapena's propulsive novel is a perfect example of the domestic thriller at its most effective.",
+    "isbn": "9780399184369",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780399184369-M.jpg"
+  },
+  {
+    "title": "Alex Cross",
+    "author": "James Patterson",
+    "genre": "thriller",
+    "description": "Forensic psychologist and police detective Alex Cross faces his most dangerous adversary yet — a brilliant serial killer whose crimes seem impossibly elaborate and personal. Patterson's template of short chapters and relentless pace has influenced a generation of thriller writers. Cross is one of crime fiction's most enduring heroes.",
+    "isbn": "9780316602662",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316602662-M.jpg"
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "author": "Stieg Larsson",
+    "genre": "thriller",
+    "description": "Lisbeth Salander becomes the prime suspect in a double murder while Mikael Blomkvist investigates a sex trafficking story that will connect the two cases in unexpected ways. The second Millennium novel deepens Lisbeth's backstory to devastating effect. Larsson's outrage at violence against women drives every page.",
+    "isbn": "9780307949516",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307949516-M.jpg"
+  },
+  {
+    "title": "I Am Pilgrim",
+    "author": "Terry Hayes",
+    "genre": "thriller",
+    "description": "A retired US intelligence agent is drawn back into the field to track a mysterious terrorist planning a bioterror attack that could kill millions. Hayes's debut spent eighteen months on bestseller lists and is acclaimed for the authenticity of its intelligence and forensic detail. The scope of the threat is genuinely terrifying.",
+    "isbn": "9781451616156",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781451616156-M.jpg"
+  },
+  {
+    "title": "The Firm",
+    "author": "John Grisham",
+    "genre": "thriller",
+    "description": "A newly graduated Harvard law student joins a small but extraordinarily lucrative tax firm in Memphis and slowly realises that the firm is laundering money for the Mob — and that anyone who leaves is killed. Grisham's breakthrough novel is a masterclass in escalating pressure and impossible choices. It launched the modern legal thriller genre.",
+    "isbn": "9780385338944",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385338944-M.jpg"
+  },
+  {
+    "title": "The Pelican Brief",
+    "author": "John Grisham",
+    "genre": "thriller",
+    "description": "A law student writes a speculative brief explaining the assassination of two Supreme Court justices and suddenly finds herself targeted by killers. Grisham's second novel is a fast, smart political thriller. The conspiracy at its heart reaches to the highest levels of American government.",
+    "isbn": "9780385339834",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385339834-M.jpg"
+  },
+  {
+    "title": "Along Came a Spider",
+    "author": "James Patterson",
+    "genre": "thriller",
+    "description": "Alex Cross investigates the kidnapping of the children of famous parents by a man who believes himself to be a figure of historical significance. Patterson's first Cross novel established the formula — fast chapters, a brilliant detective, and a killer who is terrifyingly human. The series has sold over one hundred million copies.",
+    "isbn": "9780446364393",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780446364393-M.jpg"
+  },
+  {
+    "title": "The Snowman",
+    "author": "Jo Nesbø",
+    "genre": "thriller",
+    "description": "Norwegian detective Harry Hole investigates a serial killer who leaves snowmen as calling cards at the scenes of disappearing women. Nesbø's most celebrated novel is supremely atmospheric and structurally cunning. The Harry Hole series is the finest output of Scandinavian crime fiction after Larsson.",
+    "isbn": "9780307477620",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307477620-M.jpg"
+  },
+  {
+    "title": "The Reckoning",
+    "author": "John Grisham",
+    "genre": "thriller",
+    "description": "In 1946 Mississippi, a decorated war hero kills the local minister in cold blood and refuses to explain why, even when facing the death penalty. Grisham's most ambitious novel moves between the courtroom, wartime Bataan, and a family reckoning across decades. It is his darkest and most literary work.",
+    "isbn": "9780385543605",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385543605-M.jpg"
+  },
+  {
+    "title": "The Broker",
+    "author": "John Grisham",
+    "genre": "thriller",
+    "description": "A former Washington power broker who sold CIA secrets is pardoned by a lame-duck president and secretly relocated to Italy, but the intelligence services of several nations want him dead. Grisham's international thriller moves at a pace that barely allows the reader to breathe. The Italian setting is evoked with real affection.",
+    "isbn": "9780385510455",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385510455-M.jpg"
+  },
+  {
+    "title": "Kiss the Girls",
+    "author": "James Patterson",
+    "genre": "thriller",
+    "description": "Alex Cross's niece is abducted by a kidnapper calling himself Casanova who keeps women prisoner in the forest. Cross teams up with a survivor to track the killer in the Carolinas. Patterson's second Cross novel raised the stakes dramatically and established the series' formula of relentless momentum.",
+    "isbn": "9780446364416",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780446364416-M.jpg"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "horror",
+    "description": "A recovering alcoholic takes a job as winter caretaker of the snowbound Overlook Hotel with his wife and psychic son, and the hotel's evil slowly drives him toward madness and violence. King's finest novel is a terrifying study of addiction and a haunted marriage. The Overlook's corridors are among fiction's most frightening spaces.",
+    "isbn": "9780385121675",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385121675-M.jpg"
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "horror",
+    "description": "In the town of Derry, Maine, a group of children face an ancient, shapeshifting evil that feeds on fear and resurfaces every twenty-seven years, and must confront it again as adults. King's epic horror novel is also a coming-of-age story of extraordinary emotional power. Pennywise the Dancing Clown is the most iconic monster in modern horror.",
+    "isbn": "9781501156700",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781501156700-M.jpg"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "horror",
+    "description": "Jonathan Harker travels to Transylvania to assist a nobleman named Count Dracula with a property purchase, and slowly realises that his host is a centuries-old vampire. Told in diary entries and letters, Stoker's novel established virtually every vampire convention. It remains one of the most influential Gothic novels ever written.",
+    "isbn": "9780141439846",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780141439846-M.jpg"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "horror",
+    "description": "A young scientist assembles a living being from cadaver parts and brings it to life, only to abandon his creation in horror — with catastrophic consequences for everyone he loves. Shelley's novel is the origin of science fiction and a profound meditation on creation, responsibility, and what makes us human. The creature's articulate suffering is deeply moving.",
+    "isbn": "9780141439471",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780141439471-M.jpg"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "genre": "horror",
+    "description": "Four people gather in a notoriously sinister house for a paranormal investigation, and one of them — fragile, lonely Eleanor — begins to lose her grip on sanity and self. Jackson's masterpiece of psychological horror works through suggestion and a profound understanding of loneliness. Its opening and closing sentences are among literature's most celebrated.",
+    "isbn": "9780143039976",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780143039976-M.jpg"
+  },
+  {
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "genre": "horror",
+    "description": "A doctor moves his family to rural Maine and discovers a burial ground beyond the pet cemetery in the woods that can bring the dead back to life — but not as they were. King has said this is the book that frightened him most. The novel is devastating in its exploration of grief and the terrible things love makes us do.",
+    "isbn": "9781501192746",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781501192746-M.jpg"
+  },
+  {
+    "title": "Bird Box",
+    "author": "Josh Malerman",
+    "genre": "horror",
+    "description": "A woman must navigate a post-apocalyptic world blindfolded because an unknown entity causes instant madness and suicide in anyone who sees it, while keeping her two children alive. Malerman's debut novel uses the suppression of sight to create unbearable tension. The parallel timelines build to a harrowing climax.",
+    "isbn": "9780062259653",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062259653-M.jpg"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "horror",
+    "description": "A father and son travel through a burned, ash-grey America following an unnamed catastrophe, scavenging for food and avoiding roving bands of cannibals. McCarthy's post-apocalyptic novel is simultaneously one of the bleakest and most tender books ever written. The love between the man and the boy is the only light in total darkness.",
+    "isbn": "9780307387899",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307387899-M.jpg"
+  },
+  {
+    "title": "House of Leaves",
+    "author": "Mark Z. Danielewski",
+    "genre": "horror",
+    "description": "A young family moves into a house and discovers it is impossible — larger on the inside than the outside — and the horror of that impossibility spreads from the family to the tattoo artist who finds the academic manuscript about them. Danielewski's debut is an experimental typographical puzzle and one of the most genuinely unsettling novels ever published. It redefines what horror can do on the page.",
+    "isbn": "9780375703768",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780375703768-M.jpg"
+  },
+  {
+    "title": "Interview with the Vampire",
+    "author": "Anne Rice",
+    "genre": "horror",
+    "description": "The vampire Louis tells his life story — from his mortal death in eighteenth-century Louisiana to the present — to a young journalist. Rice's novel transformed the vampire from monster to melancholy protagonist. Its elegiac prose and existential themes created an entirely new tradition in vampire fiction.",
+    "isbn": "9780345409645",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780345409645-M.jpg"
+  },
+  {
+    "title": "American Psycho",
+    "author": "Bret Easton Ellis",
+    "genre": "horror",
+    "description": "Patrick Bateman is a handsome, wealthy Manhattan investment banker who may or may not be committing horrific murders — and the ambiguity is the point. Ellis's savage satire of 1980s yuppie culture uses graphic violence to skewer consumerism, masculinity, and emptiness. It is one of the most controversial novels of the twentieth century.",
+    "isbn": "9780679735779",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780679735779-M.jpg"
+  },
+  {
+    "title": "NOS4A2",
+    "author": "Joe Hill",
+    "genre": "horror",
+    "description": "A young woman with the ability to find lost things through impossible roads encounters Charlie Manx, an immortal predator who kidnaps children in his 1938 Rolls-Royce and takes them to a terrifying place called Christmasland. Hill's epic horror novel is overflowing with invention and imagination. The confrontation between Victoria and Manx spans decades.",
+    "isbn": "9780062200570",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062200570-M.jpg"
+  },
+  {
+    "title": "The Exorcist",
+    "author": "William Peter Blatty",
+    "genre": "horror",
+    "description": "A twelve-year-old girl in Washington D.C. begins to exhibit terrifying symptoms of possession, and two priests must confront an ancient evil to save her. Blatty's novel caused a sensation on publication and remains the most frightening religious horror novel ever written. The battle for Regan's soul is harrowing on every reading.",
+    "isbn": "9780062094384",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062094384-M.jpg"
+  },
+  {
+    "title": "Hex",
+    "author": "Thomas Olde Heuvelt",
+    "genre": "horror",
+    "description": "In a small Hudson Valley town, a seventeenth-century witch wanders the streets with her eyes and mouth sewn shut, driving residents to suicide if they stare too long. Olde Heuvelt's Dutch novel uses contemporary technology and social media to create an utterly modern ghost story. The ending is shocking and deeply unnerving.",
+    "isbn": "9780765376244",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765376244-M.jpg"
+  },
+  {
+    "title": "The Stand",
+    "author": "Stephen King",
+    "genre": "horror",
+    "description": "A weaponised flu virus kills almost all of humanity and the survivors must choose sides in a battle between good and evil led by an elderly woman and a walking embodiment of darkness. King's epic — over one thousand pages in its uncut edition — is his most ambitious work. It is a genuine American myth of apocalypse and renewal.",
+    "isbn": "9780385121682",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385121682-M.jpg"
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "genre": "horror",
+    "description": "In 1950s Mexico, glamorous socialite Noemí Taboada travels to an isolated mansion to rescue her cousin from a sinister English family, only to be drawn into the house's suffocating, fungal horror. Moreno-Garcia fuses Gothic atmosphere with colonial history to devastating effect. It is a fresh and powerful entry in the haunted-house tradition.",
+    "isbn": "9780525620785",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780525620785-M.jpg"
+  },
+  {
+    "title": "Rosemary's Baby",
+    "author": "Ira Levin",
+    "genre": "horror",
+    "description": "A young woman in a Manhattan apartment building suspects that her husband has made a terrible deal with their eccentric neighbours, and that her pregnancy is part of a Satanic conspiracy. Levin's novel is a masterpiece of controlled dread in which the horror is always just beneath the surface of domestic normality. The paranoia builds unbearably.",
+    "isbn": "9780451194008",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780451194008-M.jpg"
+  },
+  {
+    "title": "The Haunted",
+    "author": "Bentley Little",
+    "genre": "horror",
+    "description": "A family moves into a house in Arizona and each member begins to experience disturbing, personalised hauntings that force them to confront their darkest desires and fears. Little's quiet approach to horror makes the supernatural feel horribly plausible. His suburban settings give his scares an intimate, domestic dread.",
+    "isbn": "9780451464170",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780451464170-M.jpg"
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "genre": "horror",
+    "description": "A bored young girl discovers a secret door in her new house that leads to a parallel world with an 'Other Mother' who seems perfect — but has buttons for eyes and dark intentions. Gaiman's children's horror novella is elegant, atmospheric, and genuinely frightening for readers of any age. Its fairy-tale logic makes the menace all the more potent.",
+    "isbn": "9780380807345",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780380807345-M.jpg"
+  },
+  {
+    "title": "A Head Full of Ghosts",
+    "author": "Paul Tremblay",
+    "genre": "horror",
+    "description": "A struggling family allows a reality TV crew to document their teenage daughter's apparent possession — and fifteen years later, a blogger investigates what really happened. Tremblay's meta-horror dissects both the possession story and the media that feeds on real suffering. It is one of the smartest horror novels of the twenty-first century.",
+    "isbn": "9780062363237",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062363237-M.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "novel",
+    "description": "In 1930s Alabama, young Scout Finch watches her father, lawyer Atticus Finch, defend a Black man falsely accused of raping a white woman. Lee's Pulitzer Prize-winning novel is one of the great American explorations of racial injustice and moral courage. Scout's innocent perspective makes its insights all the more powerful.",
+    "isbn": "9780061935466",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780061935466-M.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "novel",
+    "description": "In the summer of 1922 on Long Island, narrator Nick Carraway becomes entangled with the mysterious millionaire Jay Gatsby and his obsessive love for the married Daisy Buchanan. Fitzgerald's novel is the definitive portrait of the American Dream's hollow glitter. Its prose is among the most beautiful in American literature.",
+    "isbn": "9780743273565",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780743273565-M.jpg"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "novel",
+    "description": "The Buendía family founds the mythical town of Macondo in the Colombian jungle and over seven generations experiences love, war, and apocalyptic repetition in the style of magical realism. García Márquez's Nobel Prize-winning masterwork blurs the boundary between miracle and everyday life. It is one of the twentieth century's most significant novels.",
+    "isbn": "9780060883287",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780060883287-M.jpg"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "novel",
+    "description": "A destitute student in St. Petersburg murders a pawnbroker he considers morally inferior, then spends the novel in psychological torment as a detective slowly closes in. Dostoevsky's exploration of guilt, redemption, and the nature of human consciousness is one of literature's great achievements. Raskolnikov's suffering is both universal and utterly individual.",
+    "isbn": "9780140449136",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780140449136-M.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "novel",
+    "description": "Sixteen-year-old Holden Caulfield recounts the events of a few days after being expelled from his boarding school, wandering New York City and railing against the phoniness of the adult world. Salinger's novel captured teenage alienation with such precision that it was both banned and beloved for decades. Holden's voice remains one of fiction's most distinctive.",
+    "isbn": "9780316769174",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316769174-M.jpg"
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "genre": "novel",
+    "description": "In a provincial English town in the 1830s, an idealistic young woman with intellectual ambitions makes a disastrous marriage while a young doctor's progressive ambitions are frustrated by debt and social convention. Eliot's novel is widely considered the greatest in the English language. Its sympathy for every character is extraordinary.",
+    "isbn": "9780141439549",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780141439549-M.jpg"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "novel",
+    "description": "A married Russian aristocrat embarks on a passionate affair with a dashing cavalry officer, with tragic consequences, while her counterpart Levin searches for meaning in rural life. Tolstoy's epic interweaves personal passion and philosophical inquiry in a novel that feels absolutely modern. Anna Karenina is one of literature's most complex and sympathetic heroines.",
+    "isbn": "9780143035008",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780143035008-M.jpg"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "novel",
+    "description": "A formerly enslaved woman in post-Civil War Ohio is haunted by the physical presence of the baby daughter she killed to prevent her being taken back into slavery. Morrison's Pulitzer Prize-winning novel confronts slavery's horrors through the lens of ghost story. It is a work of profound emotional and moral power.",
+    "isbn": "9781400033416",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781400033416-M.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "novel",
+    "description": "A young Andalusian shepherd travels across the desert from Spain to Egypt in pursuit of a recurring dream about treasure, and along the way learns lessons about following one's dreams. Coelho's philosophical novel has sold more than 150 million copies. Its simple but powerful message about personal legend has resonated across cultures.",
+    "isbn": "9780062315007",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062315007-M.jpg"
+  },
+  {
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "genre": "novel",
+    "description": "A Tokyo student in the late 1960s mourns his best friend's suicide while falling in love with two very different women, navigating grief, desire, and the political upheaval of the era. Murakami's most accessible and emotionally direct novel captures the particular melancholy of youth. It made him an international literary star.",
+    "isbn": "9780375704024",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780375704024-M.jpg"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "novel",
+    "description": "A wealthy Afghan boy's cowardly betrayal of his loyal servant's son haunts him across decades, through the Soviet invasion, the rise of the Taliban, and exile in America. Hosseini's debut novel brought Afghan culture to an international audience with devastating effect. The relationship between Amir and Hassan is one of fiction's great friendships.",
+    "isbn": "9781594631931",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781594631931-M.jpg"
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "genre": "novel",
+    "description": "Two Afghan women from different generations and backgrounds are brought together by circumstance in Kabul and forge a bond of survival against the brutal backdrop of Taliban rule. Hosseini's second novel is even more emotionally devastating than his debut. The friendship between Mariam and Laila is the heart of the book.",
+    "isbn": "9781594483851",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781594483851-M.jpg"
+  },
+  {
+    "title": "The Road to Wigan Pier",
+    "author": "George Orwell",
+    "genre": "novel",
+    "description": "Orwell documents the conditions of working-class life in the depressed industrial North of England and analyses the failure of British socialism to connect with the people it claims to represent. Part reportage, part polemic, the book remains one of the sharpest accounts of class and poverty in English. Orwell's honesty about his own prejudices is remarkable.",
+    "isbn": "9780156767507",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780156767507-M.jpg"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "genre": "novel",
+    "description": "An ageing Cuban fisherman sails far out to sea and hooks the largest fish of his life — a massive marlin — and fights for days to bring it home, in a story of dignity and endurance. Hemingway's Nobel Prize-winning novella is a perfect example of his iceberg theory of prose: simple on the surface, vast beneath. The old man's struggle is a meditation on life itself.",
+    "isbn": "9780684801223",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780684801223-M.jpg"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "novel",
+    "description": "Three brothers — the passionate Dmitri, the rational Ivan, and the spiritual Alyosha — are entangled in the murder of their debauched father in nineteenth-century Russia. Dostoevsky's final novel contains his fullest exploration of faith, doubt, justice, and the nature of God. It is one of the greatest novels ever written.",
+    "isbn": "9780374528379",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780374528379-M.jpg"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "novel",
+    "description": "A young woman raised in the mountains of Idaho by survivalist parents who kept her from attending school educates herself and eventually earns a PhD from Cambridge University. Westover's memoir reads with the urgency and structure of a novel. It is a shattering account of family, memory, and the power of education.",
+    "isbn": "9780399590504",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780399590504-M.jpg"
+  },
+  {
+    "title": "The Power of the Dog",
+    "author": "Thomas Savage",
+    "genre": "novel",
+    "description": "On a Montana cattle ranch in the 1920s, cruel and intelligent rancher Phil Burbank torments his brother's new wife and her son, until the dynamic shifts in unexpected ways. Savage's long-overlooked masterpiece is a psychological Western of extraordinary power. Benedict Cumberbatch's portrayal in the film introduced many readers to the source.",
+    "isbn": "9780316736862",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316736862-M.jpg"
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "genre": "novel",
+    "description": "Janie Crawford, a Black woman in the American South, tells the story of her three marriages and her search for self-determination and love. Hurston's lyrical novel in dialect was rediscovered by Alice Walker and is now recognised as a foundational work of African American literature. Janie's voice is extraordinary.",
+    "isbn": "9780061120060",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780061120060-M.jpg"
+  },
+  {
+    "title": "The Joy Luck Club",
+    "author": "Amy Tan",
+    "genre": "novel",
+    "description": "Four Chinese immigrant women and their American-born daughters navigate the tensions between cultures through interconnected stories that reveal secrets passed down across generations. Tan's debut is a warm, beautifully constructed exploration of mothers and daughters. It opened American literary fiction to Chinese American voices.",
+    "isbn": "9780143038009",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780143038009-M.jpg"
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "genre": "novel",
+    "description": "Steinbeck's most ambitious novel follows the Trask family across generations in the Salinas Valley of California, consciously retelling the story of Cain and Abel. The vast sweep encompasses a century of American history. The character of Lee, the Chinese cook and philosopher, is one of fiction's most memorable creations.",
+    "isbn": "9780142004234",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780142004234-M.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "romance",
+    "description": "The second of five Bennet daughters, the witty and independent Elizabeth, must navigate the pressures of marriage while sparring with the proud and wealthy Mr. Darcy. Austen's masterpiece of irony and social observation remains the model for every romantic comedy since. The slow-burn romance between Elizabeth and Darcy is literature's most satisfying.",
+    "isbn": "9780141439518",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780141439518-M.jpg"
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "genre": "romance",
+    "description": "A British nurse on holiday in 1945 Scotland is swept back in time to 1743 and must choose between her husband in the twentieth century and the Scottish warrior she falls in love with in the eighteenth. Gabaldon's sweeping historical romance launched a beloved eight-volume series. The passion between Claire and Jamie Fraser is unequalled in the genre.",
+    "isbn": "9780440212560",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780440212560-M.jpg"
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "genre": "romance",
+    "description": "Louisa Clark takes a job caring for Will Traynor, a quadriplegic former banker, and the two form an unexpected bond that changes both their lives — and ends in a controversial decision. Moyes's novel provoked fierce debate about disability and autonomy while also being profoundly moving. The romance is tender and utterly believable.",
+    "isbn": "9780143124542",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780143124542-M.jpg"
+  },
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "genre": "romance",
+    "description": "An elderly man reads to his wife with dementia from a notebook containing the story of their young love — a poor country boy and a rich girl whose families tried to keep them apart. Sparks's debut is a simple but affecting love story. Its emotional sincerity has made it one of the best-loved romance novels of its era.",
+    "isbn": "9780446605236",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780446605236-M.jpg"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "genre": "romance",
+    "description": "A teenager moves to rainy Forks, Washington, and falls in love with a mysterious classmate who turns out to be a vampire restraining himself from killing her. Meyer's debut became a cultural phenomenon and reignited the vampire romance subgenre. The tension between Bella's desire and Edward's danger drives the series.",
+    "isbn": "9780316160179",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316160179-M.jpg"
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "genre": "romance",
+    "description": "Henry DeTamble has a genetic condition that causes him to involuntarily travel through time, and his relationship with his wife Clare unfolds in a non-linear sequence that is both romantic and heartbreaking. Niffenegger's debut uses science fiction as a metaphor for the way relationships stretch across time. The ending is devastating.",
+    "isbn": "9780156029964",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780156029964-M.jpg"
+  },
+  {
+    "title": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "genre": "romance",
+    "description": "Two misfit teenagers fall in love over mix-tapes and comic books on the school bus in 1986 Omaha, but their home lives are very different — and fragile. Rowell's young adult romance is remarkable for its specificity and emotional truth. The voice of both characters is completely authentic.",
+    "isbn": "9781250012579",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781250012579-M.jpg"
+  },
+  {
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "genre": "romance",
+    "description": "A genetics professor with what is clearly undiagnosed autism decides to find a wife using a rigorous scientific questionnaire — and then meets Rosie, who fails every criterion. Simsion's warm and funny novel uses its protagonist's literalism to explore neurodiversity with great charm. The romance is genuinely sweet.",
+    "isbn": "9781476729091",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781476729091-M.jpg"
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "genre": "romance",
+    "description": "Lily Bloom starts a new life in Boston, falls for a charismatic neurosurgeon, and must navigate a relationship that begins to mirror her parents' abusive dynamic. Hoover's novel combines a compelling romance with an unflinching look at domestic violence. It is more honest and more difficult than most books in the genre.",
+    "isbn": "9781501110368",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781501110368-M.jpg"
+  },
+  {
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "genre": "romance",
+    "description": "Two executive assistants sharing an office engage in a series of competitive games to torment each other — and both are completely unprepared for the attraction building beneath the warfare. Thorne's enemies-to-lovers romance is the gold standard of office romance. Its banter is sparkling and its slow burn is exquisitely sustained.",
+    "isbn": "9780062439598",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062439598-M.jpg"
+  },
+  {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "genre": "romance",
+    "description": "A romance novelist with writer's block agrees to a challenge with her literary-fiction neighbour: she will write a serious novel and he will write a romance, and they will swap genres for the summer. Henry's debut is clever, witty, and genuinely moving. The relationship between the two writers is both funny and achingly real.",
+    "isbn": "9781984806734",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781984806734-M.jpg"
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "genre": "romance",
+    "description": "Two best friends who are complete opposites have taken a summer trip together every year for a decade — until one disastrous trip ends their friendship. Now one of them is trying to plan one final trip to fix what went wrong. Henry's love story is funny, romantic, and deeply felt.",
+    "isbn": "9781984806758",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781984806758-M.jpg"
+  },
+  {
+    "title": "The Kiss Quotient",
+    "author": "Helen Hoang",
+    "genre": "romance",
+    "description": "An econometrician with autism hires a male escort to teach her how to be in a relationship — and they both fall unexpectedly in love. Hoang's debut romance features an autistic protagonist written with sensitivity and specificity. The novel is witty, sexy, and emotionally generous.",
+    "isbn": "9780451490803",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780451490803-M.jpg"
+  },
+  {
+    "title": "Written in the Stars",
+    "author": "Alexandria Bellefleur",
+    "genre": "romance",
+    "description": "An optimistic romantic and a cynical actuary agree to a fake relationship to satisfy their families — and predictably begin to fall for each other for real. Bellefleur's debut is warm, funny, and features one of romance fiction's most charming heroines. The slow reveal of the hero's feelings is beautifully done.",
+    "isbn": "9780062990785",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062990785-M.jpg"
+  },
+  {
+    "title": "Second First Impressions",
+    "author": "Sally Thorne",
+    "genre": "romance",
+    "description": "The manager of a retirement community has created a series of impossible tasks to deter a string of unsuitable assistants — and is disconcerted when a new candidate actually wants to complete them. Thorne's second novel is as witty as her debut and even more emotionally warm. The romance is charming and the characters are wonderful.",
+    "isbn": "9780062990891",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062990891-M.jpg"
+  },
+  {
+    "title": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "genre": "romance",
+    "description": "Forced to bring a date to her sister's wedding in Spain, a woman makes a reckless deal with her annoyingly handsome colleague — who she may not hate as much as she pretends. Armas's debut is a sunny, funny enemies-to-lovers romance set against a Spanish backdrop. The chemistry between the leads sizzles from the first page.",
+    "isbn": "9781982177959",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781982177959-M.jpg"
+  },
+  {
+    "title": "Indigo Ridge",
+    "author": "Devney Perry",
+    "genre": "romance",
+    "description": "A newly appointed chief of police returns to her Montana hometown and finds herself investigating a murder while navigating a complicated attraction to a local rancher. Perry's romance blends small-town atmosphere with real emotional stakes. The mystery subplot adds satisfying tension to the romance.",
+    "isbn": "9781728262673",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781728262673-M.jpg"
+  },
+  {
+    "title": "Happy Place",
+    "author": "Emily Henry",
+    "genre": "romance",
+    "description": "A formerly engaged couple who broke up secretly agree to pretend to still be together for one final vacation with their close friends, in the beach cottage they love. Henry's third novel is her most emotionally complex — a story about grief, change, and the courage to let go. The fake relationship trope is handled with unusual depth.",
+    "isbn": "9781984806772",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781984806772-M.jpg"
+  },
+  {
+    "title": "In a Holidaze",
+    "author": "Christina Lauren",
+    "genre": "romance",
+    "description": "A young woman makes a desperate wish on Christmas and finds herself reliving the holidays over and over with her family's closest friends — including the boy she has loved for years. Christina Lauren's festive time-loop romance is cosy, funny, and enormously satisfying. It is perfect holiday reading.",
+    "isbn": "9780593099483",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780593099483-M.jpg"
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "genre": "romance",
+    "description": "A mortal huntress kills a wolf in the woods and is taken to a magical land by the beast's master, a dangerous faerie lord, and finds herself falling for him even as an ancient curse threatens everything. Maas's Beauty and the Beast retelling launched a massively popular series. The romance is sweeping, passionate, and addictive.",
+    "isbn": "9781619634459",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781619634459-M.jpg"
+  },
+  {
+    "title": "Penelope Douglas",
+    "author": "Punk 57",
+    "genre": "dark romance",
+    "description": "Two pen pals who have never met finally encounter each other in high school, but one is hiding their identity and bullying the other — and the attraction between them is dangerously complicated. Douglas's novel is a sharp reversal of high school power dynamics. The love story is intense, angsty, and genuinely moving.",
+    "isbn": "9781682308820",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781682308820-M.jpg"
+  },
+  {
+    "title": "Haunting Adeline",
+    "author": "H.D. Carlton",
+    "genre": "dark romance",
+    "description": "A woman inherits her grandmother's Gothic Victorian mansion and begins finding traces of an obsessive stalker who has been watching her for months — and finds herself disturbingly fascinated by him. Carlton's dark romance is intentionally transgressive and psychologically intense. It is the definitive example of the stalker romance subgenre.",
+    "isbn": "9781959285014",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781959285014-M.jpg"
+  },
+  {
+    "title": "Corrupt",
+    "author": "Penelope Douglas",
+    "genre": "dark romance",
+    "description": "A young woman is pursued by three older men she once considered her brother's friends, who now want revenge for something she did years ago — and the attraction is mutual despite the danger. Douglas's dark romance trilogy begins with this intensely atmospheric novel. The power dynamics and the forbidden desire make it compulsively readable.",
+    "isbn": "9781682308844",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781682308844-M.jpg"
+  },
+  {
+    "title": "Twisted Love",
+    "author": "Ana Huang",
+    "genre": "dark romance",
+    "description": "A brooding, cold-hearted man grudgingly agrees to watch over his best friend's sister for a summer — and the hatred between them slowly becomes something far more dangerous and consuming. Huang's debut dark romance is glossy, emotionally intense, and enormously popular with readers who love morally complex heroes.",
+    "isbn": "9781728249681",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781728249681-M.jpg"
+  },
+  {
+    "title": "King of Wrath",
+    "author": "Ana Huang",
+    "genre": "dark romance",
+    "description": "A billionaire forced into a marriage of convenience must convince his reluctant fiancée to go through with it, and what begins as a cold transaction becomes something neither of them anticipated. Huang's arranged marriage romance is a sleek, glamorous take on the genre with real emotional depth beneath the drama.",
+    "isbn": "9781728260501",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781728260501-M.jpg"
+  },
+  {
+    "title": "The Dare",
+    "author": "Harley Laroux",
+    "genre": "dark romance",
+    "description": "A reckless dare between two college students spirals into a dangerously real obsession when the lines between enemies, rivals, and lovers blur beyond recovery. Laroux's dark romance is unapologetically intense and explores power, desire, and vulnerability with unusual honesty.",
+    "isbn": "9798986047508",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9798986047508-M.jpg"
+  },
+  {
+    "title": "Captive Prince",
+    "author": "C.S. Pacat",
+    "genre": "dark romance",
+    "description": "A prince is enslaved and sent as a gift to his kingdom's enemy, the prince who destroyed his life — and a volatile, impossible attraction develops between captor and captive. Pacat's trilogy is remarkable for the complexity of its politics and the slow, painful evolution of its central relationship. The world-building is superb.",
+    "isbn": "9780425274262",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780425274262-M.jpg"
+  },
+  {
+    "title": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "dark romance",
+    "description": "A nurse and a pilot agree to a purely physical relationship with two rules — no asking about the past and no expectations of a future — and both are damaged by what they try to keep as simple. Hoover's alternating timelines slowly reveal a devastating backstory. The romance is raw, painful, and completely absorbing.",
+    "isbn": "9781476741475",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781476741475-M.jpg"
+  },
+  {
+    "title": "Never Never",
+    "author": "Colleen Hoover & Tarryn Fisher",
+    "genre": "dark romance",
+    "description": "Two teenagers who have loved each other all their lives suddenly lose all memory of one another and must figure out who they are and why they forgot — before they lose each other again. The collaborative novella trilogy has a clever mystery at its heart. The amnesia premise is handled with originality and real emotional force.",
+    "isbn": "9781942652106",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781942652106-M.jpg"
+  },
+  {
+    "title": "Vicious",
+    "author": "L.J. Shen",
+    "genre": "dark romance",
+    "description": "A high-school bully and his victim are thrown together years later when circumstances force them to live under the same roof — and the hatred between them is tangled up with something much deeper. Shen's dark romance is propulsive and emotionally bruising. Her heroes are deeply flawed but always compelling.",
+    "isbn": "9781977991812",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781977991812-M.jpg"
+  },
+  {
+    "title": "Devious Lies",
+    "author": "Parker S. Huntington",
+    "genre": "dark romance",
+    "description": "A woman desperate for a fresh start makes a deal with a cold and dangerous man who has reasons of his own for wanting her cooperation — and neither is prepared for what develops. Huntington's dark romance trades in moral ambiguity and genuine psychological complexity. The cat-and-mouse dynamic is irresistible.",
+    "isbn": "9798986047515",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9798986047515-M.jpg"
+  },
+  {
+    "title": "The Serpent and the Wings of Night",
+    "author": "Carissa Broadbent",
+    "genre": "dark romance",
+    "description": "A human woman raised by vampires competes in a deadly magical tournament and forms an uneasy alliance with the most feared vampire competitor. Broadbent's dark fantasy romance is cinematic in scope and genuinely thrilling. The forbidden attraction between the leads is deliciously tense.",
+    "isbn": "9781250899767",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781250899767-M.jpg"
+  },
+  {
+    "title": "From Blood and Ash",
+    "author": "Jennifer L. Armentrout",
+    "genre": "dark romance",
+    "description": "A young woman chosen by the gods and forbidden from being touched falls for her mysterious guard — the one person between her and the darkness that threatens her world. Armentrout's fantasy romance is wildly popular for its slow-burn tension and richly imagined world. The revelations in the second act are stunning.",
+    "isbn": "9781952457760",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781952457760-M.jpg"
+  },
+  {
+    "title": "Blood Heir",
+    "author": "Amélie Wen Zhao",
+    "genre": "dark romance",
+    "description": "An Anastasia-inspired princess with the power to control blood flees her kingdom after being framed for murder and reluctantly allies with a mercenary whose goals and loyalties are unclear. Zhao's dark fantasy romance is gorgeously imagined and the forbidden attraction is handled with real skill. The political intrigue adds satisfying complexity.",
+    "isbn": "9780525707790",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780525707790-M.jpg"
+  },
+  {
+    "title": "Kingdom of the Wicked",
+    "author": "Kerri Maniscalco",
+    "genre": "dark romance",
+    "description": "A Sicilian girl who dreams of becoming a chef makes a dangerous deal with the demon Wrath to help solve her twin's murder, and finds the attraction between them increasingly impossible to deny. Maniscalco's dark romance fuses Sicilian atmosphere with demonic mythology. The enemies-to-lovers dynamic is perfectly calibrated.",
+    "isbn": "9780316428385",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316428385-M.jpg"
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "genre": "historical",
+    "description": "The building of a cathedral in twelfth-century England is the spine of a sweeping story of ambition, violence, art, and faith involving a prior, a mason, a noblewoman, and an outlaw monk. Follett's epic historical novel is one of the most popular ever written. The cathedral's slow rise becomes a symbol of human aspiration and endurance.",
+    "isbn": "9780451166890",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780451166890-M.jpg"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "historical",
+    "description": "In Barcelona in the 1940s, a boy discovers a mysterious novel in the Cemetery of Forgotten Books and becomes obsessed with its reclusive author — a search that leads him into the dark history of the Civil War. Zafón's gothic romance of literature and memory is one of the great Spanish novels of the post-Franco era. The city of Barcelona is itself a character.",
+    "isbn": "9780143034902",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780143034902-M.jpg"
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "genre": "historical",
+    "description": "The stories of a blind French girl in occupied Saint-Malo and a German orphan pressed into the Wehrmacht converge around a legendary diamond during the final years of the Second World War. Doerr's Pulitzer Prize-winning novel is lyrical, structurally audacious, and deeply moving. It is one of the finest war novels of the century.",
+    "isbn": "9781476746586",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781476746586-M.jpg"
+  },
+  {
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "genre": "historical",
+    "description": "Thomas Cromwell, son of a blacksmith, rises through the treacherous court of Henry VIII to become the king's most powerful advisor during the downfall of Catherine of Aragon and the rise of Anne Boleyn. Mantel's Man Booker Prize-winning novel reinvents the historical novel through radical use of the present tense. Cromwell is one of fiction's greatest characters.",
+    "isbn": "9780805080681",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780805080681-M.jpg"
+  },
+  {
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "genre": "historical",
+    "description": "A Franciscan monk and his novice investigate a series of mysterious deaths in a fourteenth-century Italian abbey that is home to an extraordinary library with a terrible secret. Eco's learned and labyrinthine detective story is also a meditation on semiotics, the nature of truth, and the dangerous power of books. It is one of the best historical novels of the twentieth century.",
+    "isbn": "9780151446476",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780151446476-M.jpg"
+  },
+  {
+    "title": "The Mists of Avalon",
+    "author": "Marion Zimmer Bradley",
+    "genre": "historical",
+    "description": "The Arthurian legend is retold from the perspective of its women — Morgaine, Guinevere, and Viviane — as the old goddess religion yields to Christianity in Britain. Bradley's feminist reinvention of the Matter of Britain is one of fantasy's most ambitious achievements. The tragedy of Camelot gains new resonance from the female perspective.",
+    "isbn": "9780345350497",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780345350497-M.jpg"
+  },
+  {
+    "title": "Shogun",
+    "author": "James Clavell",
+    "genre": "historical",
+    "description": "An English navigator is shipwrecked in feudal Japan in 1600 and becomes entangled in the power struggle between rival warlords as the country balances on the edge of civil war. Clavell's epic is one of the most immersive works of historical fiction ever written. The culture clash between East and West is handled with intelligence and respect.",
+    "isbn": "9780385292801",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385292801-M.jpg"
+  },
+  {
+    "title": "I, Claudius",
+    "author": "Robert Graves",
+    "genre": "historical",
+    "description": "The Emperor Claudius, considered a stammering fool by his family, survives the murderous intrigues of the Julio-Claudian dynasty to eventually become emperor — and writes his memoir as testament to the truth. Graves's fictional autobiography of the first Roman emperors is brilliant, witty, and politically astute. Livia, the scheming grandmother, is one of fiction's great villains.",
+    "isbn": "9780679724773",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780679724773-M.jpg"
+  },
+  {
+    "title": "The Bronze Horseman",
+    "author": "Paullina Simons",
+    "genre": "historical",
+    "description": "In Leningrad in the summer of 1941, a young woman falls in love with a Red Army soldier just as Germany invades the Soviet Union, and the Siege of Leningrad becomes the backdrop for one of fiction's most intense and agonising love stories. Simons's epic romance is brutal in its historical authenticity. The suffering of the siege is rendered without mercy.",
+    "isbn": "9780062119186",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062119186-M.jpg"
+  },
+  {
+    "title": "Lincoln",
+    "author": "Gore Vidal",
+    "genre": "historical",
+    "description": "Abraham Lincoln is portrayed from the perspective of his political associates during the Civil War, as a shrewd, melancholy, and morally complex president reshaping a nation. Vidal's historical novel refuses hagiography while still conveying the greatness of its subject. It is one of American fiction's finest portraits of a historical figure.",
+    "isbn": "9780375708442",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780375708442-M.jpg"
+  },
+  {
+    "title": "The Paris Wife",
+    "author": "Paula McLain",
+    "genre": "historical",
+    "description": "Hadley Richardson, Ernest Hemingway's first wife, tells the story of their marriage in 1920s Paris — years of expatriate bohemia, literary ambition, and the affair that destroyed their relationship. McLain's biographical novel gives an underrepresented woman's perspective on a famous story. The Paris of the Lost Generation shimmers on every page.",
+    "isbn": "9780345521422",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780345521422-M.jpg"
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "genre": "historical",
+    "description": "Two French sisters take very different paths during the German occupation of France in World War II — one joining the Resistance as a courier for downed Allied airmen, the other finding small acts of defiance from within. Hannah's novel is one of the most emotionally powerful Second World War stories written by a contemporary author. The sisterhood at its heart is beautifully rendered.",
+    "isbn": "9781250080400",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781250080400-M.jpg"
+  },
+  {
+    "title": "The Twentieth Wife",
+    "author": "Indu Sundaresan",
+    "genre": "historical",
+    "description": "The spirited daughter of a Persian immigrant to Mughal India becomes determined from childhood to marry the Emperor Jahangir, despite every obstacle of rank and custom. Sundaresan's Taj Mahal Trilogy begins with this rich account of the woman who became Nur Jahan. The Mughal court is evoked with dazzling colour.",
+    "isbn": "9780743428132",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780743428132-M.jpg"
+  },
+  {
+    "title": "A Place of Greater Safety",
+    "author": "Hilary Mantel",
+    "genre": "historical",
+    "description": "Mantel traces the lives of three leaders of the French Revolution — Danton, Robespierre, and Desmoulins — from their provincial childhoods to their deaths by guillotine, humanising figures who are normally treated as abstractions. The novel is a towering achievement of historical fiction that took Mantel a decade to write. The Terror has rarely been rendered so vividly or so intimately.",
+    "isbn": "9780312422271",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780312422271-M.jpg"
+  },
+  {
+    "title": "Year of Wonders",
+    "author": "Geraldine Brooks",
+    "genre": "historical",
+    "description": "In 1666, a Derbyshire village quarantines itself to prevent the plague spreading after an infected cloth-bolt arrives, and a young widow narrates the year of death, faith, and moral collapse. Brooks's novel is based on the true story of Eyam and is written with quiet, devastating prose. The faith and fragility of the community are rendered with extraordinary empathy.",
+    "isbn": "9780142001431",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780142001431-M.jpg"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "young-adult",
+    "description": "In the dystopian nation of Panem, sixteen-year-old Katniss Everdeen volunteers for the annual televised death match to save her younger sister and must fight to survive while becoming the reluctant symbol of a growing rebellion. Collins's trilogy is relentlessly plotted and genuinely brutal. Katniss is one of YA's most compelling heroines.",
+    "isbn": "9780439023528",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780439023528-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "young-adult",
+    "description": "An orphan boy discovers on his eleventh birthday that he is a wizard, is admitted to Hogwarts School of Witchcraft and Wizardry, and learns that a dark lord murdered his parents and is trying to return. Rowling's series is the best-selling in history and created a generation of readers. The magic of the wizarding world remains utterly enchanting.",
+    "isbn": "9781338878929",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781338878929-M.jpg"
+  },
+  {
+    "title": "Percy Jackson & The Lightning Thief",
+    "author": "Rick Riordan",
+    "genre": "young-adult",
+    "description": "A twelve-year-old boy with ADHD and dyslexia discovers he is the son of Poseidon and is accused of stealing Zeus's master lightning bolt — and has ten days to find it before Olympus goes to war. Riordan's series made Greek mythology irresistibly accessible and funny. Percy's voice is one of YA's most charming.",
+    "isbn": "9780786838653",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780786838653-M.jpg"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "young-adult",
+    "description": "Two teenagers with cancer fall in love in a support group — Hazel, who is controlled and realistic about her prognosis, and Augustus, who is flamboyant and terrified of oblivion. Green's novel is funny, smart, and unbearably moving. It handles mortality and young love with equal seriousness and honesty.",
+    "isbn": "9780525478812",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780525478812-M.jpg"
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "genre": "young-adult",
+    "description": "In a futuristic Chicago, society is divided into five factions based on personality traits, and sixteen-year-old Tris Prior discovers she is Divergent — she fits into more than one faction — and must navigate a conspiracy that could destroy her world. Roth's debut was a massive hit in the post-Hunger Games dystopian wave. The action sequences are genuinely thrilling.",
+    "isbn": "9780062024022",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062024022-M.jpg"
+  },
+  {
+    "title": "Maze Runner",
+    "author": "James Dashner",
+    "genre": "young-adult",
+    "description": "A teenager wakes up in a glade with no memory except his name, surrounded by other boys who have built a community at the centre of an enormous, ever-changing maze — and he may be the key to escaping it. Dashner's thriller is relentlessly paced and imaginative in its puzzle-box design. The mystery of the maze sustains enormous tension.",
+    "isbn": "9780385737951",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385737951-M.jpg"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "young-adult",
+    "description": "In a society that has achieved apparent perfection by eliminating all pain, emotion, and choice, twelve-year-old Jonas is assigned the unique role of Receiver of Memory and discovers the terrible cost of his community's serenity. Lowry's Newbery Medal-winning dystopia is one of the most taught and debated novels in schools. Its ending remains one of YA's great debates.",
+    "isbn": "9780544336261",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780544336261-M.jpg"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "genre": "young-adult",
+    "description": "A shy, observant high school freshman writes anonymous letters about his first year of high school, his new friends, his first love, and the secret trauma that shapes his understanding of himself. Chbosky's novel captures adolescent feeling with extraordinary intimacy and honesty. It has been beloved and banned in equal measure.",
+    "isbn": "9781451696196",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781451696196-M.jpg"
+  },
+  {
+    "title": "An Ember in the Ashes",
+    "author": "Sabaa Tahir",
+    "genre": "young-adult",
+    "description": "In a Roman-inspired empire, a Scholar girl goes undercover at the empire's military academy to free her brother, while a soldier there begins to question the brutal system he has been trained to uphold. Tahir's series is remarkable for the moral complexity of its characters and the authenticity of its violence. The world-building is vivid and politically engaged.",
+    "isbn": "9781595148032",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781595148032-M.jpg"
+  },
+  {
+    "title": "Shadow and Bone",
+    "author": "Leigh Bardugo",
+    "genre": "young-adult",
+    "description": "An orphan soldier in a fantasy Russia discovers she has a miraculous gift that makes her the only person who can destroy the darkness that splits her country — and that the man everyone expects to save her may be the greatest threat of all. Bardugo's Grishaverse is one of YA fantasy's most beloved world-building achievements. The twist concerning the Darkling is one of the genre's most memorable.",
+    "isbn": "9781627791519",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781627791519-M.jpg"
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "genre": "young-adult",
+    "description": "A young girl in a West African-inspired world must use her magical heritage to bring magic back to a kingdom after a brutal king had all maji slaughtered, including her mother. Adeyemi's debut is a thrilling, politically charged fantasy drawn from Nigerian mythology. The representation of Black protagonists in the high fantasy setting was groundbreaking.",
+    "isbn": "9781250170972",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781250170972-M.jpg"
+  },
+  {
+    "title": "The Cruel Prince",
+    "author": "Holly Black",
+    "genre": "young-adult",
+    "description": "A mortal girl raised among faeries in the treacherous High Court of Elfhame will do anything to win a place there — even align herself with the cruellest prince in the land. Black's Faerie novels are for readers graduating from lighter YA fare. The political scheming and the tension between Jude and Cardan is addictive.",
+    "isbn": "9780316310314",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316310314-M.jpg"
+  },
+  {
+    "title": "Scythe",
+    "author": "Neal Shusterman",
+    "genre": "young-adult",
+    "description": "In a future where death has been conquered, a specially chosen class of Scythes are the only agents of mortality — and two teenagers apprenticed to a Scythe find themselves in the middle of a power struggle that could change the world. Shusterman's philosophical thriller raises profound questions about death and power. The world-building is astonishingly inventive.",
+    "isbn": "9781442472426",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781442472426-M.jpg"
+  },
+  {
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "genre": "young-adult",
+    "description": "A criminal mastermind assembles a crew of six dangerous misfits for an impossible heist — breaking into the world's most secure prison. Bardugo's ensemble thriller is witty, dark, and plotted with immaculate precision. The found-family dynamic of the Dregs is one of YA fiction's great pleasures.",
+    "isbn": "9781627792127",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781627792127-M.jpg"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "young-adult",
+    "description": "Set in Nazi Germany, the story of a foster girl who steals books is narrated by Death. Liesel Meminger's love of words sustains her through loss and bombing. Zusak's novel is narrated by Death, and the perspective is both distancing and devastating.",
+    "isbn": "9780375842207",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780375842207-M.jpg"
+  },
+  {
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "genre": "young-adult",
+    "description": "A thirteen-year-old boy is the sole survivor of a plane crash in the Canadian wilderness and must survive alone with only a hatchet his mother gave him as a gift. Paulsen's Newbery Honor novel is a gripping survival story that has introduced adventure literature to millions of young readers. Brian's ingenuity and growing self-knowledge are inspiring.",
+    "isbn": "9781416936473",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781416936473-M.jpg"
+  },
+  {
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "author": "Ransom Riggs",
+    "genre": "young-adult",
+    "description": "A teenager's investigation into his grandfather's mysterious death leads him to a Welsh island and a loop in time where a group of peculiar children have been kept safe since 1940. Riggs weaves vintage photographs into his narrative to haunting effect. The novel blends X-Men-style special abilities with genuinely eerie atmosphere.",
+    "isbn": "9781594745836",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781594745836-M.jpg"
+  },
+  {
+    "title": "I'll Give You the Sun",
+    "author": "Jandy Nelson",
+    "genre": "young-adult",
+    "description": "Twins Noah and Jude are inseparable and fiercely competitive until a tragedy tears them apart — and the novel alternates between their perspectives at different moments in time to reassemble what happened. Nelson's prose is painterly and emotional. The novel is a gorgeous exploration of art, grief, and the love between siblings.",
+    "isbn": "9780803734968",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780803734968-M.jpg"
+  },
+  {
+    "title": "The Alchemyst",
+    "author": "Michael Scott",
+    "genre": "young-adult",
+    "description": "Twins Sophie and Josh discover that their employer, the bookshop owner Nick Fleming, is actually the immortal alchemyst Nicolas Flamel — and they must help him protect a legendary book from the dark elder Dee. Scott's Secrets of the Immortal Nicholas Flamel series brings real historical figures into a mythology-spanning adventure. The pace is breathless.",
+    "isbn": "9780385736008",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385736008-M.jpg"
+  },
+  {
+    "title": "Keeper of the Lost Cities",
+    "author": "Shannon Messenger",
+    "genre": "young-adult",
+    "description": "A girl with an unusually powerful mind discovers she is an elf and is transported to the magical world she was always meant to be part of — but enemies old and new are already plotting against her. Messenger's series combines cosy wish-fulfillment with genuine danger and strong friendships. The world's elemental magic system is satisfying and imaginative.",
+    "isbn": "9781442445017",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781442445017-M.jpg"
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "genre": "police",
+    "description": "Private detective Philip Marlowe is hired by a wealthy general to handle a blackmail matter and finds himself entangled in murder, pornography rings, and family dysfunction in the corrupt underbelly of Los Angeles. Chandler's debut novel defined the hardboiled detective genre and gave literature one of its iconic first-person voices. The plot may be famously confusing, but the atmosphere is unforgettable.",
+    "isbn": "9780394758282",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780394758282-M.jpg"
+  },
+  {
+    "title": "In the Heat of the Night",
+    "author": "John Ball",
+    "genre": "police",
+    "description": "A Black detective from Pasadena is stranded overnight in a racist North Carolina town and becomes the lead investigator in a murder case despite the hostility of the local police chief. Ball's novel won the Edgar Award and the character of Virgil Tibbs was a groundbreaking figure in American crime fiction. The racial tension is handled with intelligence and control.",
+    "isbn": "9781681771854",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781681771854-M.jpg"
+  },
+  {
+    "title": "The Wire in the Blood",
+    "author": "Val McDermid",
+    "genre": "police",
+    "description": "Psychological profiler Tony Hill assists DCI Carol Jordan in the investigation of a series of linked murders of young people, carried out by a killer of terrifying intelligence and patience. McDermid's series is the finest British police procedural of its era. The Hill and Jordan dynamic — professional and personal — sustains enormous dramatic weight.",
+    "isbn": "9780007173358",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780007173358-M.jpg"
+  },
+  {
+    "title": "A Great Deliverance",
+    "author": "Elizabeth George",
+    "genre": "police",
+    "description": "Scotland Yard Inspector Thomas Lynley and his working-class sergeant Barbara Havers investigate a brutal murder in Yorkshire and must navigate the complex family secrets of a farming community. George's debut introduced one of British crime fiction's great partnerships — Lynley's aristocratic polish against Havers's prickly directness. The Yorkshire setting is beautifully rendered.",
+    "isbn": "9780553575026",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553575026-M.jpg"
+  },
+  {
+    "title": "Tana French: In the Woods",
+    "author": "Tana French",
+    "genre": "police",
+    "description": "Detective Rob Ryan investigates a child's murder in a Dublin wood where he was found as a boy, the only survivor of an unexplained event involving his two missing friends. French's literary crime debut won the Edgar Award for Best First Novel. The psychological texture of her detective's fractured identity is extraordinary.",
+    "isbn": "9780143113492",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780143113492-M.jpg"
+  },
+  {
+    "title": "The Redbreast",
+    "author": "Jo Nesbø",
+    "genre": "police",
+    "description": "Oslo detective Harry Hole investigates the purchase of an illegal antique pistol that leads him from modern Norway back to the Eastern Front in 1944 and a conspiracy reaching into the present. Nesbø's third Harry Hole novel is his breakthrough — the historical sections are gripping and the modern police procedural is impeccable.",
+    "isbn": "9780061133992",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780061133992-M.jpg"
+  },
+  {
+    "title": "The Surgeon",
+    "author": "Tess Gerritsen",
+    "genre": "police",
+    "description": "A serial killer is replicating the crimes of a surgeon who previously terrorised Boston — and the only person who can help police detective Jane Rizzoli is the survivor of the original attacks. Gerritsen's first Rizzoli and Isles novel is a taut medical thriller with a strong feminist backbone. The cat-and-mouse element is perfectly executed.",
+    "isbn": "9780804119672",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780804119672-M.jpg"
+  },
+  {
+    "title": "Detective Inspector Frost: Frost at Christmas",
+    "author": "R.D. Wingfield",
+    "genre": "police",
+    "description": "The shambolic, politically incorrect, but brilliantly intuitive Detective Inspector Frost of Denton CID investigates the disappearance of a young girl in the weeks before Christmas. Wingfield's Frost novels are beloved for their wit, their vivid supporting cast, and their warm-hearted shabbiness. Frost himself is one of British crime fiction's great originals.",
+    "isbn": "9780552142502",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780552142502-M.jpg"
+  },
+  {
+    "title": "Minette Walters: The Ice House",
+    "author": "Minette Walters",
+    "genre": "police",
+    "description": "The discovery of an unidentifiable body on the grounds of a country house reignites questions about a wealthy woman's missing husband, who disappeared ten years earlier. Walters's debut is a meticulously constructed psychological puzzle in the classic British tradition. The women at the novel's centre are drawn with acute observation.",
+    "isbn": "9780312109042",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780312109042-M.jpg"
+  },
+  {
+    "title": "Bluebird, Bluebird",
+    "author": "Attica Locke",
+    "genre": "police",
+    "description": "A Black Texas Ranger is sent to a small East Texas town to investigate two murders — a Black lawyer and a white woman — and must navigate the town's deep racial divisions while grappling with his own compromised position. Locke's novel is a rich and angry exploration of racial violence in America. The blues music that runs through it is woven in with great skill.",
+    "isbn": "9780316363204",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316363204-M.jpg"
+  },
+  {
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "genre": "police",
+    "description": "Four retired residents of a luxury retirement village who meet weekly to study cold cases find themselves in the middle of a real murder investigation. Osman's debut is warm, witty, and very British — a cosy crime novel with genuine puzzle-craft. The elderly protagonists are among the most charming in recent crime fiction.",
+    "isbn": "9781984880963",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781984880963-M.jpg"
+  },
+  {
+    "title": "Longbourn",
+    "author": "Jo Baker",
+    "genre": "police",
+    "description": "Jane Austen's Pride and Prejudice is retold from below-stairs, through the eyes of the Bennet household servants whose unseen labour sustains the world of the novel. Baker's clever inversion is also a genuinely absorbing historical novel with a mystery subplot. The portrait of servant life illuminates everything we didn't notice in Austen.",
+    "isbn": "9780385351232",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780385351232-M.jpg"
+  },
+  {
+    "title": "Crocodile Tears",
+    "author": "Alexander McCall Smith",
+    "genre": "police",
+    "description": "Precious Ramotswe, the proprietress of Botswana's No. 1 Ladies' Detective Agency, investigates a case of suspected agricultural fraud and a client who may not be telling her the whole truth. McCall Smith's series is gentle, philosophical, and warm-hearted in a way that is entirely its own. Mma Ramotswe is one of fiction's most beloved detectives.",
+    "isbn": "9780307739001",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307739001-M.jpg"
+  },
+  {
+    "title": "Still Life",
+    "author": "Louise Penny",
+    "genre": "police",
+    "description": "Chief Inspector Armand Gamache of the Sûreté du Québec investigates the death of a beloved woman in the village of Three Pines and finds a community of secrets beneath the charming surface. Penny's debut won multiple crime fiction awards and launched one of the most acclaimed series in the genre. Three Pines is one of crime fiction's great settings.",
+    "isbn": "9780312541538",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780312541538-M.jpg"
+  },
+  {
+    "title": "The Devotion of Suspect X",
+    "author": "Keigo Higashino",
+    "genre": "police",
+    "description": "A single mother kills her abusive ex-husband with her daughter's help, and her brilliant reclusive neighbour — a genius mathematician — helps cover up the crime, only to find himself in a battle of wits with a detective friend. Higashino's inverted mystery is brilliantly structured and deeply moving. The sacrifice at its heart is shattering.",
+    "isbn": "9781250002976",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781250002976-M.jpg"
+  },
+  {
+    "title": "The Raw Shark Texts",
+    "author": "Steven Hall",
+    "genre": "fantastic",
+    "description": "A man wakes with no memory and a letter from himself warning about a conceptual shark — a creature that exists in the flow of language and narrative rather than water. Hall's debut is a witty, experimental thriller that plays with semiotics and the nature of story. The shark itself is one of fiction's most original monsters.",
+    "isbn": "9781847670946",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781847670946-M.jpg"
+  },
+  {
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "genre": "fantastic",
+    "description": "A teenager runs away from an Oedipal prophecy while an elderly man who cannot read but can make fish rain from the sky walks toward a mystery in the same dreamlike Japan. Murakami's novel is a puzzle that rewards surrender more than solution. The two narratives interweave with hypnotic inevitability.",
+    "isbn": "9781400079278",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781400079278-M.jpg"
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "genre": "fantastic",
+    "description": "A middle-aged man returns to his childhood home and remembers an extraordinary supernatural adventure involving a girl who is much older than she appears, an ancient evil, and a small pond that is actually an ocean. Gaiman's short novel is one of his most personal and emotionally direct works. The mixture of mundane suburban life and cosmic horror is perfectly calibrated.",
+    "isbn": "9780062255655",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062255655-M.jpg"
+  },
+  {
+    "title": "Borges Labyrinths",
+    "author": "Jorge Luis Borges",
+    "genre": "fantastic",
+    "description": "Borges's celebrated stories include The Garden of Forking Paths, The Library of Babel, and Tlön, Uqbar, Orbis Tertius — fictions that treat the universe as a library, a lottery, and an infinite labyrinth. These short pieces invented much of what we now call magical realism and postmodern fiction. Borges is one of the most influential writers of the twentieth century.",
+    "isbn": "9780811200721",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780811200721-M.jpg"
+  },
+  {
+    "title": "Einstein's Dreams",
+    "author": "Alan Lightman",
+    "genre": "fantastic",
+    "description": "Lightman imagines thirty separate worlds in which time works differently — backwards, in circles, as a frozen moment — in a series of meditations attributed to the dreaming mind of young Albert Einstein. This poetic novel-in-vignettes is one of the most beautiful books written about the nature of time. Each dream is a perfect short story.",
+    "isbn": "9781400077809",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781400077809-M.jpg"
+  },
+  {
+    "title": "At the Mountains of Madness",
+    "author": "H.P. Lovecraft",
+    "genre": "fantastic",
+    "description": "A geologist recounts a scientific expedition to Antarctica that discovers the ruins of a civilization predating humanity and the monstrous entities that built it, which are not entirely dead. Lovecraft's novella is the fullest expression of his Cthulhu Mythos and the most sustained piece of cosmic horror ever written. The sense of scale and wrongness is overwhelming.",
+    "isbn": "9780812974850",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780812974850-M.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "genre": "fantastic",
+    "description": "A scientist who has discovered a means of making himself invisible finds that the condition is far more debilitating than he anticipated, and his desperation drives him toward violence and isolation. Wells's science fiction novella uses its central concept to explore social alienation and the corruption of the scientific mind. It remains compulsively readable.",
+    "isbn": "9780141439983",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780141439983-M.jpg"
+  },
+  {
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "genre": "fantastic",
+    "description": "This collection includes The Garden of Forking Paths, Pierre Menard, Author of the Quixote, and The Lottery in Babylon — stories that treat the universe as a library, a lottery, and a text. Borges invented much of what we call postmodern fiction in these pages. His influence on every subsequent writer of experimental or fantastic literature is incalculable.",
+    "isbn": "9780802130303",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780802130303-M.jpg"
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "genre": "fantastic",
+    "description": "Three friends who grew up at an exclusive English boarding school slowly come to understand the terrible purpose for which they were created. Ishiguro's Booker Prize-shortlisted novel is a masterpiece of implication and tragic acceptance. The horror is all the more powerful for what the characters refuse to say.",
+    "isbn": "9781400078776",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781400078776-M.jpg"
+  },
+  {
+    "title": "The Invention of Morel",
+    "author": "Adolfo Bioy Casares",
+    "genre": "fantastic",
+    "description": "A fugitive hiding on a deserted island discovers that the group of tourists he has been observing are actually recordings — and one of them is a woman with whom he has fallen in love. Bioy Casares's short novel anticipates virtual reality and questions the nature of consciousness and the self. Borges called it perfect.",
+    "isbn": "9780940322455",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780940322455-M.jpg"
+  },
+  {
+    "title": "Hard-Boiled Wonderland and the End of the World",
+    "author": "Haruki Murakami",
+    "genre": "fantastic",
+    "description": "Two parallel narratives — one a surrealist thriller in futuristic Tokyo, the other a dreamlike journey through a walled town of unicorns — gradually reveal their connection in one of Murakami's most structurally audacious novels. The novel is about consciousness, memory, and the stories we tell ourselves to survive. Murakami at his most inventive.",
+    "isbn": "9780679743460",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780679743460-M.jpg"
+  },
+  {
+    "title": "Solaris",
+    "author": "Stanisław Lem",
+    "genre": "fantastic",
+    "description": "Scientists aboard a space station orbiting a mysterious planet covered in a sentient ocean find that the planet is manifesting physical replicas of people from their deepest memories. Lem's philosophical science fiction masterpiece is a meditation on the impossibility of true communication with the truly alien. The planet Solaris is one of science fiction's greatest creations.",
+    "isbn": "9780156027601",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780156027601-M.jpg"
+  },
+  {
+    "title": "The Wind-Up Bird Chronicle",
+    "author": "Haruki Murakami",
+    "genre": "fantastic",
+    "description": "A unemployed Tokyo man searches for his missing cat and discovers his missing wife may have vanished into the same mysterious underworld — a journey that takes him into World War II history, surreal dreamscapes, and the corridors of political power. Murakami's most ambitious novel combines domestic realism and surreal horror in perfect equilibrium. The well at its centre is one of literature's great images.",
+    "isbn": "9780679775430",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780679775430-M.jpg"
+  },
+  {
+    "title": "The Final Empire Annotations",
+    "author": "Brandon Sanderson",
+    "genre": "fantasy",
+    "description": "Sanderson's annotations for Mistborn reveal the craft behind his magic systems and plotting decisions. A must-read companion for fans of the Final Empire. The behind-the-scenes detail enriches every re-read.",
+    "isbn": "9780765316882",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765316882-M.jpg"
+  },
+  {
+    "title": "The Deed of Paksenarrion",
+    "author": "Elizabeth Moon",
+    "genre": "fantasy",
+    "description": "A farm girl runs away to become a mercenary soldier and discovers extraordinary gifts of paladin hood within herself. Moon's trilogy began as a D&D campaign and became one of fantasy's finest military coming-of-age stories. The detail of mercenary life is drawn from genuine military experience.",
+    "isbn": "9781439133705",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781439133705-M.jpg"
+  },
+  {
+    "title": "Tigerheart",
+    "author": "Peter David",
+    "genre": "fantasy",
+    "description": "A boy travels to the magical City of Never in search of a fairy to save his dying sister. David's loving homage to Peter Pan is warmer and more emotionally honest than the original. It rewards readers who know the source material and charms those who don't.",
+    "isbn": "9780345499516",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780345499516-M.jpg"
+  },
+  {
+    "title": "Shades of Magic",
+    "author": "V.E. Schwab",
+    "genre": "fantasy",
+    "description": "A rare magician who can travel between four parallel Londons — each with a different relationship to magic — becomes entangled with a thief and a dark power threatening all four worlds. Schwab's trilogy is vivid, addictive, and cinematic. Kell and Lila Bard are among contemporary fantasy's best double acts.",
+    "isbn": "9780765376466",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765376466-M.jpg"
+  },
+  {
+    "title": "Sphere",
+    "author": "Michael Crichton",
+    "genre": "science-fiction",
+    "description": "A team of scientists is sent to the Pacific seabed to investigate a spacecraft that has been there for three hundred years — and finds a mysterious golden sphere inside it. Crichton's claustrophobic thriller exploits the deep ocean setting to maximum effect. The psychological horror of confronting the unknown is brilliantly sustained.",
+    "isbn": "9780345370679",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780345370679-M.jpg"
+  },
+  {
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "genre": "science-fiction",
+    "description": "A radio astronomer detects a signal from a star system twenty-six light years away and must navigate political, religious, and scientific chaos to build the machine the signal describes. Sagan's only novel is an extraordinarily rich meditation on science, faith, and humanity's place in the universe. The character of Ellie Arroway is one of science fiction's finest heroines.",
+    "isbn": "9780671434007",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780671434007-M.jpg"
+  },
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "genre": "science-fiction",
+    "description": "A neuroscientist and a detective discover that a mysterious epidemic causing people to have false memories is connected to a technology that can alter reality itself. Crouch's thriller moves at warp speed and handles its time-travel paradoxes with unusual rigour. The emotional stakes are as high as the scientific ones.",
+    "isbn": "9781524759780",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781524759780-M.jpg"
+  },
+  {
+    "title": "All Systems Red",
+    "author": "Martha Wells",
+    "genre": "science-fiction",
+    "description": "A SecUnit — a part-human, part-robot security construct who has hacked its own governor module and mostly wants to watch TV serials — must protect its human clients from a deadly threat on a distant planet. Wells's novella launched one of science fiction's most beloved series. The Murderbot's voice is droll, anxious, and completely winning.",
+    "isbn": "9780765397539",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765397539-M.jpg"
+  },
+  {
+    "title": "The Bachman Books",
+    "author": "Stephen King",
+    "genre": "thriller",
+    "description": "Four early King novels published under his Richard Bachman pseudonym include Rage, The Long Walk, Roadwork, and The Running Man — all dark, dystopian, and propulsive. The Long Walk alone is worth the price of the collection. King's early pseudonymous work is rawer and angrier than his later fiction.",
+    "isbn": "9780452265967",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780452265967-M.jpg"
+  },
+  {
+    "title": "Darkly Dreaming Dexter",
+    "author": "Jeff Lindsay",
+    "genre": "thriller",
+    "description": "Miami forensic blood-spatter analyst Dexter Morgan is also a serial killer who only targets murderers — and his Dark Passenger is aroused when a new, brilliant killer begins leaving artfully arranged bodies. Lindsay's debut is darkly funny and surprisingly character-rich. Dexter is one of crime fiction's most unusual anti-heroes.",
+    "isbn": "9780307277466",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780307277466-M.jpg"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "genre": "thriller",
+    "description": "The commander of a Soviet nuclear submarine decides to defect to the United States — but both the American and Soviet navies are trying to find and stop him. Clancy's debut was a sensation for its technical authenticity and the cat-and-mouse tension of its undersea pursuit. It launched the Jack Ryan universe.",
+    "isbn": "9780425133514",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780425133514-M.jpg"
+  },
+  {
+    "title": "Intensity",
+    "author": "Dean Koontz",
+    "genre": "thriller",
+    "description": "A young woman visiting her college friend's family home witnesses a monster of a man kill the entire family and must survive a night of escalating horror to save a kidnapped girl she has never met. Koontz's most relentlessly paced novel lives up to its title in every respect. The antagonist Vess is one of his most frightening creations.",
+    "isbn": "9780553996647",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780553996647-M.jpg"
+  },
+  {
+    "title": "The Troop",
+    "author": "Nick Cutter",
+    "genre": "horror",
+    "description": "A group of boy scouts on a remote island encounter an emaciated stranger whose visit unleashes a living nightmare of parasites and violence among the boys. Cutter's debut is one of the most viscerally disturbing horror novels of recent years. It is not for the faint-hearted but rewards those who persevere with genuine dread.",
+    "isbn": "9781476717715",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781476717715-M.jpg"
+  },
+  {
+    "title": "The Terror",
+    "author": "Dan Simmons",
+    "genre": "horror",
+    "description": "The historically documented disappearance of the Franklin Expedition to the Arctic is explained in this novel by a monster on the ice hunting the stranded sailors. Simmons blends historical fact, survival thriller, and supernatural horror to create one of the genre's most ambitious novels. The cold is so vivid it chills the reader.",
+    "isbn": "9780316017442",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316017442-M.jpg"
+  },
+  {
+    "title": "White Teeth",
+    "author": "Zadie Smith",
+    "genre": "novel",
+    "description": "Two World War II veterans — one English, one Bangladeshi — and their families navigate identity, culture, and history in North London across the second half of the twentieth century. Smith's debut is funny, sprawling, and intellectually exuberant. It announced one of British literature's most important voices.",
+    "isbn": "9780375703867",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780375703867-M.jpg"
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "genre": "novel",
+    "description": "In Kerala in 1969, the secret love between an upper-caste woman and an Untouchable man destroys a family across two timelines. Roy's Man Booker Prize-winning debut is written in shimmering, non-linear prose. The tragedy at its heart is both political and intimate.",
+    "isbn": "9780812979657",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780812979657-M.jpg"
+  },
+  {
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "genre": "novel",
+    "description": "A Korean family emigrates to Japan across four generations, facing discrimination and displacement while finding love, faith, and ambition. Lee's epic spans most of the twentieth century with clarity and emotional power. The word pachinko — a game of chance — serves as a perfect metaphor for the family's precarious existence.",
+    "isbn": "9781455563920",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781455563920-M.jpg"
+  },
+  {
+    "title": "Part of Your World",
+    "author": "Abby Jimenez",
+    "genre": "romance",
+    "description": "A big-city ER doctor starts an unlikely relationship with a small-town man who is everything she didn't know she needed. Jimenez's warm contemporary romance explores class, ambition, and compromise without losing its comic energy. The chemistry between the leads is beautifully done.",
+    "isbn": "9781538736678",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781538736678-M.jpg"
+  },
+  {
+    "title": "The Pucking Wrong Number",
+    "author": "C.R. Jane",
+    "genre": "dark romance",
+    "description": "A wrong-number text between a woman in crisis and an NHL player leads to an obsessive connection that neither of them anticipated. Jane's hockey dark romance is unapologetically intense and addictive. The protectiveness of the hero is the subgenre's defining feature deployed to full effect.",
+    "isbn": "9798987804308",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9798987804308-M.jpg"
+  },
+  {
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "genre": "young-adult",
+    "description": "Percy Jackson discovers he is the son of Poseidon at a summer camp for demigods and is sent on a quest to prevent a war between the Olympians. Riordan's series is funny, fast, and brilliantly imagined. The reimagining of Greek gods as squabbling New York celebrities is endlessly inventive.",
+    "isbn": "9781423101482",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781423101482-M.jpg"
+  },
+  {
+    "title": "The Mortal Instruments: City of Bones",
+    "author": "Cassandra Clare",
+    "genre": "young-adult",
+    "description": "A New York teenager discovers on her sixteenth birthday that she is a Shadowhunter — a human-angel hybrid trained to protect the world from demons — and that her world is far more dangerous than she knew. Clare's series is one of YA's most beloved, with a vast, internally consistent mythology. The mystery of Clary's parentage drives the first book brilliantly.",
+    "isbn": "9781416914280",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781416914280-M.jpg"
+  },
+  {
+    "title": "The Inheritance Games",
+    "author": "Jennifer Lynn Barnes",
+    "genre": "young-adult",
+    "description": "A teenage girl is shocked to learn she has been left a billionaire's fortune — and must move into his mansion with his four grandsons to claim it, while solving the puzzle of why she was chosen. Barnes's thriller is a delicious locked-room mystery crossed with a romance. The puzzle-solving and the ensemble of heirs are both irresistible.",
+    "isbn": "9780316495431",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780316495431-M.jpg"
+  },
+  {
+    "title": "Speak",
+    "author": "Laurie Halse Anderson",
+    "genre": "young-adult",
+    "description": "A high school freshman becomes increasingly isolated and silent after a traumatic incident at a party the summer before school began. Anderson's landmark YA novel deals with sexual assault with courage and clarity. Melinda's gradual recovery through an art project is one of the genre's most cathartic storylines.",
+    "isbn": "9780374371524",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780374371524-M.jpg"
+  },
+  {
+    "title": "The Alienist",
+    "author": "Caleb Carr",
+    "genre": "police",
+    "description": "In 1896 New York, a psychologist, a newspaper reporter, and the first female secretary in police history investigate the murders of boy prostitutes using pioneering criminal profiling techniques. Carr's period thriller is extraordinarily researched and the turn-of-the-century New York atmosphere is immersive. The alienist Laszlo Kreizler is one of historical crime fiction's finest creations.",
+    "isbn": "9780812976144",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780812976144-M.jpg"
+  },
+  {
+    "title": "The Gormenghast Trilogy",
+    "author": "Mervyn Peake",
+    "genre": "fantastic",
+    "description": "In the vast, crumbling castle of Gormenghast, rituals govern every moment of life for its inhabitants — until a cunning kitchen boy named Steerpike begins his ascent through the castle's absurd hierarchy. Peake's trilogy is unlike anything else in English literature: part Gothic horror, part satire, part poetry. Its influence on dark fantasy is immeasurable.",
+    "isbn": "9780879516512",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780879516512-M.jpg"
+  },
+  {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "genre": "fantastic",
+    "description": "The Devil visits Soviet Moscow in the guise of a mysterious professor and causes havoc, while in a parallel narrative Pontius Pilate sentences Jesus to death. Bulgakov's satirical masterpiece blends supernatural comedy with a deeply serious meditation on artistic integrity and political power. It circulated in samizdat for decades before official publication.",
+    "isbn": "9780140455465",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780140455465-M.jpg"
+  },
+  {
+    "title": "If on a winter's night a traveler",
+    "author": "Italo Calvino",
+    "genre": "fantastic",
+    "description": "A novel addressed directly to 'you' — the Reader — who keeps finding that the book you are trying to read gets interrupted, replaced by another unfinished beginning, in a mise en abyme of narrative and desire. Calvino's postmodern masterpiece is also a warm celebration of the intimacy between reader and text. Each interrupted story is brilliant in its own right.",
+    "isbn": "9780156439619",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780156439619-M.jpg"
+  },
+  {
+    "title": "The Night Land",
+    "author": "William Hope Hodgson",
+    "genre": "fantastic",
+    "description": "In the far future, the last of humanity huddles in a pyramid fortress while colossal, incomprehensible entities prowl the lightless earth, and one man makes a desperate journey across the darkness to find a lost love. Hodgson's 1912 novel is one of the most ambitious pieces of fantastic literature ever written. Its singular prose style is an acquired but rewarding taste.",
+    "isbn": "9781169963696",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781169963696-M.jpg"
+  },
+  {
+    "title": "The Westing Game",
+    "author": "Ellen Raskin",
+    "genre": "young-adult",
+    "description": "Sixteen people are gathered in the Sunset Towers apartment block and told they could inherit a millionaire's fortune if they solve the puzzle of his murder. Raskin's Newbery Medal novel is one of the cleverest puzzle stories ever written for young readers. Every detail rewards attention.",
+    "isbn": "9780142401200",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780142401200-M.jpg"
+  },
+  {
+    "title": "The Haunting of Alma Fielding",
+    "author": "Kate Summerscale",
+    "genre": "historical",
+    "description": "In 1938 London, a suburban housewife becomes the subject of a paranormal investigation as objects fly around her home — and the investigator finds himself believing in the impossible. Summerscale's narrative non-fiction reads like a thriller and illuminates an anxious era caught between science and superstition. It won the Baillie Gifford Prize.",
+    "isbn": "9780525559399",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780525559399-M.jpg"
+  },
+  {
+    "title": "Small Gods",
+    "author": "Terry Pratchett",
+    "genre": "fantastic",
+    "description": "The great god Om, reduced to the body of a small tortoise because almost no one truly believes in him, must work with the only believer he has left — an innocent novice — to survive a theocratic empire. Pratchett's most serious Discworld novel is a brilliant satire on organised religion and a genuinely moving story about faith. It stands alone perfectly.",
+    "isbn": "9780062273218",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780062273218-M.jpg"
+  },
+  {
+    "title": "The Covenant of Water",
+    "author": "Abraham Verghese",
+    "genre": "novel",
+    "description": "A family in Kerala across three generations shares a mysterious condition — one member in every generation dies by drowning — and the novel spans the twentieth century from the British colonial era to independence. Verghese's vast, warm novel is steeped in the landscape and culture of South India. It is a celebration of medicine, love, and the persistence of family.",
+    "isbn": "9780802162175",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9780802162175-M.jpg"
+  },
+  {
+    "title": "Holly",
+    "author": "Stephen King",
+    "genre": "thriller",
+    "description": "Holly Gibney investigates the disappearance of a poet and a young man and discovers that a respectable retired professor couple harbour a monstrous secret. King's most recent Holly novel is one of his sharpest books in years. The satire of Covid-era denial adds a sharp contemporary edge to the horror.",
+    "isbn": "9781668016138",
+    "coverUrl": "https://covers.openlibrary.org/b/isbn/9781668016138-M.jpg"
+  }
+]

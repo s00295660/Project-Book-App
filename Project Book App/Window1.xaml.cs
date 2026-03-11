@@ -1,69 +1,138 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace Project_Book_App
 {
-    /// <summary>
-    /// Interaction logic for Window1.xaml
-    /// </summary>
     public partial class Window1 : Window
     {
         public List<Book> allBook = new List<Book>();
+        private List<Book> _displayedBooks = new List<Book>();
+        private Book _selected = null;
+        private bool _isLoading = true;
 
         public Window1()
         {
             InitializeComponent();
-
-
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            string[] genres = { "fantasy", "science-fiction", "thriller", "fantastic", "novel", "dark romance", "romance", "historical", "horror", "police", "young-adult" };
-            Genres.ItemsSource = genres;
+            _isLoading = true;
 
-            string[] authors = { };
-            Authors.ItemsSource = authors;
+            allBook = BookRepository.LoadAll();
 
-            Book b1 = new Book
-            (
-                "Keepers of the lost cities",
-                "Shannon Messenger",
-                "fantasy",
-                "A girl discovers a new world."
-            );
+            Genres.ItemsSource = BookRepository.GetGenres();
+            Authors.ItemsSource = BookRepository.GetAuthors();
 
-            allBook.Add( b1 );
-        }
+            _isLoading = false;
 
-        private void Back_Click(object sender, RoutedEventArgs e)
-        {
-            MainWindow mainWindow = new MainWindow();
-            Visibility = Visibility.Hidden;
-            mainWindow.Show();
+            RefreshListBox(allBook);
         }
 
 
-        private void AddToWishList_Click(object sender, RoutedEventArgs e)
+        private void RefreshListBox(List<Book> books)
         {
+            _displayedBooks = books;
+            BookList.ItemsSource = books.Select(b => b.Title).ToList();
+        }
 
+        private void BookList_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (BookList.SelectedIndex < 0 || BookList.SelectedIndex >= _displayedBooks.Count)
+                return;
+
+            _selected = _displayedBooks[BookList.SelectedIndex];
+
+            TitleBlock.Text = _selected.Title;
+            DescriptionBlock.Text = _selected.Description;
+
+            LoadCoverImage(_selected.CoverUrl);
+        }
+
+
+        private void LoadCoverImage(string url)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(url))
+                {
+                    ImageBookCover.Source = null;
+                    return;
+                }
+
+                var bitmap = new BitmapImage();
+                bitmap.BeginInit();
+                bitmap.UriSource = new Uri(url, UriKind.Absolute);
+                bitmap.CacheOption = BitmapCacheOption.OnLoad;
+                bitmap.CreateOptions = BitmapCreateOptions.IgnoreImageCache;
+                bitmap.EndInit();
+
+                ImageBookCover.Source = bitmap;
+            }
+            catch
+            {
+                ImageBookCover.Source = null;
+            }
         }
 
         private void Genres_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            string selectedGenre = Genres.SelectedItem as string;
+            if (!_isLoading) ApplyFilters();
+        }
+
+        private void Authors_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (!_isLoading) ApplyFilters();
+        }
+
+        private void ApplyFilters()
+        {
+            string genre = Genres.SelectedItem as string;
+            string author = Authors.SelectedItem as string;
+
+            var filtered = BookRepository.FilterBy(genre: genre, author: author);
+            RefreshListBox(filtered);
+
+            TitleBlock.Text = string.Empty;
+            DescriptionBlock.Text = string.Empty;
+            ImageBookCover.Source = null;
+            _selected = null;
+        }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            foreach (Window w in Application.Current.Windows)
+            {
+                if (w is MainWindow)
+                {
+                    w.Show();
+                    break;
+                }
+            }
+            this.Hide();
+        }
+
+        private void AddToWishList_Click(object sender, RoutedEventArgs e)
+        {
+            if (_selected == null) return;
+
+            foreach (Window w in Application.Current.Windows)
+            {
+                if (w is Window3 window3)
+                {
+                    window3.WishListt.Add(_selected);
+                    MessageBox.Show(
+                        "« " + _selected.Title + " » ajouté à la Wish List !",
+                        "Wish List",
+                        MessageBoxButton.OK,
+                        MessageBoxImage.Information);
+                    return;
+                }
+            }
         }
     }
 }

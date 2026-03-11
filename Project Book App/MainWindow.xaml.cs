@@ -25,29 +25,35 @@ namespace Project_Book_App
             InitializeComponent();
         }
 
-
-
-       
+        private Window1 _searchWindow = null;
+        private Window2 _libraryWindow = null;
+        private Window3 _profileWindow = null;
 
         private void Search_Click(object sender, RoutedEventArgs e)
         {
-            Window1 mainWindow = new Window1();
-            Visibility = Visibility.Hidden;
-            mainWindow.Show();
+            if (_searchWindow == null)
+                _searchWindow = new Window1();
+
+            _searchWindow.Show();
+            this.Hide();
         }
 
         private void Library_Click(object sender, RoutedEventArgs e)
         {
-            Window2 mainWindow = new Window2();
-            Visibility = Visibility.Hidden;
-            mainWindow.Show();
+            if(this._libraryWindow == null)
+                _libraryWindow = new Window2();
+
+            _libraryWindow.Show();
+            this.Hide();
         }
 
         private void Profile_Click(object sender, RoutedEventArgs e)
         {
-            Window3 mainWindow = new Window3();
-            Visibility = Visibility.Hidden;
-            mainWindow.Show();
+            if (this._profileWindow == null)
+                _profileWindow = new Window3();
+
+            _profileWindow.Show();
+            this.Hide();
 
         }
 

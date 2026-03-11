@@ -26,9 +26,15 @@ namespace Project_Book_App
 
         private void Back_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow mainWindow = new MainWindow();
-            Visibility = Visibility.Hidden;
-            mainWindow.Show();
+            foreach (Window w in Application.Current.Windows)
+            {
+                if (w is MainWindow)
+                {
+                    w.Show();
+                    break;
+                }
+            }
+            this.Hide();
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
