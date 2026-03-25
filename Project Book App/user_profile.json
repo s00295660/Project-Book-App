@@ -1,0 +1,34 @@
+{
+  "username": "John Doe",
+  "wishList": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn": "9780743273565",
+      "coverUrl": "https://example.com/cover1.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn": "9780451524935",
+      "coverUrl": "https://example.com/cover2.jpg"
+    }
+  ],
+  "library": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn": "9780061935466",
+      "coverUrl": "https://example.com/cover3.jpg",
+      "isRead": true
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "isbn": "9780060850524",
+      "coverUrl": "https://example.com/cover4.jpg",
+      "isRead": false
+    }
+  ],
+  "booksReadCount": 1
+}
