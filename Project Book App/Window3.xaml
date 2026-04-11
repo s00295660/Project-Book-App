@@ -11,7 +11,7 @@
             <ImageBrush ImageSource="/profile.jpg"/>
         </Grid.Background>
         <Button Content="Back" HorizontalAlignment="Left" Height="34" Margin="10,10,0,0" VerticalAlignment="Top" Width="93" Click="Back_Click" Background="#FF824E01" BorderBrush="{x:Null}" FontFamily="Blackadder ITC" FontSize="18"/>
-        <TextBox HorizontalAlignment="Left" Height="39" Margin="44,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Background="White" FontFamily="Global Serif" FontSize="16" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="UsernameBox" KeyDown="UsernameBox_KeyDown" HorizontalAlignment="Left" Height="39" Margin="44,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183" Background="White" FontFamily="Global Serif" FontSize="16"/>
         <Label Content="Wish-List" HorizontalAlignment="Left" Height="30" Margin="554,88,0,0" VerticalAlignment="Top" Width="114" FontSize="19" FontFamily="Old English Text MT" Background="#FF4C1F05" Padding="16,3,4,4"/>
         <ListBox x:Name="WishList" HorizontalAlignment="Left" Height="274" Margin="487,136,0,0" VerticalAlignment="Top" Width="247" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF56351F" Opacity="0.9" SelectionChanged="WishList_SelectionChanged"/>
         <Label Content="Books read :" HorizontalAlignment="Left" Height="33" Margin="44,169,0,0" VerticalAlignment="Top" Width="107" Background="Black" FontSize="18" FontFamily="Mongolian Baiti"/>

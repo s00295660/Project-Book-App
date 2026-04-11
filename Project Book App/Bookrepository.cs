@@ -14,14 +14,13 @@ namespace Project_Book_App
         {
             if (_cache != null) return _cache;
 
-            // Cherche books.json dans plusieurs emplacements possibles
             string baseDir = AppDomain.CurrentDomain.BaseDirectory;
 
             string[] searchPaths =
             {
-                Path.Combine(baseDir, "books.json"),                        // bin\Debug\
-                Path.Combine(baseDir, @"..\..\books.json"),                 // racine projet (2 niveaux)
-                Path.Combine(baseDir, @"..\..\..\books.json"),              // racine projet (3 niveaux)
+                Path.Combine(baseDir, "books.json"),                        
+                Path.Combine(baseDir, @"..\..\books.json"),                
+                Path.Combine(baseDir, @"..\..\..\books.json"),              
                 Path.Combine(Directory.GetCurrentDirectory(), "books.json"),
             };
 
@@ -36,7 +35,6 @@ namespace Project_Book_App
                 return _cache;
             }
 
-            // Aucun fichier trouvé — affiche les chemins testés pour aider au debug
             string tried = string.Join("\n", searchPaths.Select(p => Path.GetFullPath(p)));
             System.Windows.MessageBox.Show(
                 "books.json introuvable.\n\nChemins testés :\n" + tried,

@@ -124,7 +124,11 @@ namespace Project_Book_App
             {
                 if (w is Window3 window3)
                 {
-                    window3.WishListt.Add(_selected);
+                    window3._profile.WishList.Add(_selected);
+                    window3.WishList.ItemsSource = null;
+                    window3.WishList.ItemsSource = window3._profile.WishList;
+                    ProfileManager.Save(window3._profile);
+
                     MessageBox.Show(
                         "« " + _selected.Title + " » ajouté à la Wish List !",
                         "Wish List",

@@ -1,59 +1,107 @@
-﻿using System.Linq;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Input;
 
 namespace Project_Book_App
 {
     public partial class Window3 : Window
     {
-        // Profil chargé en mémoire
-        private UserProfile _profile = new();
+        public UserProfile _profile;
 
         public Window3()
         {
             InitializeComponent();
-            LoadProfile();
+            _profile = new UserProfile();
         }
 
-        // ── Chargement ─────────────────────────────────────────────────────────
-
-        private void LoadProfile()
+        private void UsernameBox_KeyDown(object sender, KeyEventArgs e)
         {
-            _profile = ProfileManager.Load();
+            if (e.Key == Key.Enter)
+                LoadUser();
+        }
 
-            // Remplir le nom d'utilisateur
-            ListBox.TextInputEvent = _profile.Username;
+        private void LoadUser()
+        {
+            string name = UsernameBox.Text.Trim();
+            if (string.IsNullOrEmpty(name)) return;
 
-            // Remplir la WishList
+            var found = ProfileManager.Find(name);
+
+            if (found != null)
+            {
+                _profile = found;
+                MessageBox.Show("Bienvenue " + _profile.Username + " !", "Profil chargé",
+                    MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            else
+            {
+                _profile = new UserProfile { Username = name };
+                ProfileManager.Save(_profile);
+                MessageBox.Show("Nouveau profil créé pour " + name + " !", "Nouveau profil",
+                    MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+
+            // Rafraîchir la WishList
             WishList.ItemsSource = null;
             WishList.ItemsSource = _profile.WishList;
+            ReadBooks.Text = _profile.Library.Count.ToString();
 
-            // Mettre à jour le compteur de livres lus
-            int readCount = _profile.Library.Count(b => b.IsRead);
-            ReadBooks.Text = readCount.ToString();
+            // Rafraîchir la Library dans Window2
+            foreach (Window w in Application.Current.Windows)
+            {
+                if (w is Window2 window2)
+                {
+                    window2.RefreshLibrary(_profile.Library);
+                    break;
+                }
+            }
         }
 
-        // ── Sauvegarde ─────────────────────────────────────────────────────────
-
-        private void SaveProfile()
+        private void Read_Click(object sender, RoutedEventArgs e)
         {
-            _profile.Username = UsernameBox.Text.Trim();
-            _profile.BooksReadCount = _profile.Library.Count(b => b.IsRead);
-            ProfileManager.Save(_profile);
-        }
+            if (WishList.SelectedItem is Book selected)
+            {
+                if (!_profile.Library.Contains(selected))
+                {
+                    _profile.Library.Add(selected);
+                }
 
-        // ── Événements ─────────────────────────────────────────────────────────
+                _profile.WishList.Remove(selected);
+                WishList.ItemsSource = null;
+                WishList.ItemsSource = _profile.WishList;
+
+                ProfileManager.Save(_profile);
+
+                foreach (Window w in Application.Current.Windows)
+                {
+                    if (w is Window2 window2)
+                    {
+                        window2.RefreshLibrary(_profile.Library);
+                        break;
+                    }
+                }
+
+                ReadBooks.Text = _profile.Library.Count.ToString();
+
+                MessageBox.Show("« " + selected.Title + " » ajouté à la Library !",
+                    "Library", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            else
+            {
+                MessageBox.Show("Sélectionne un livre dans la Wish List.",
+                    "Aucun livre sélectionné", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
+        }
 
         private void Back_Click(object sender, RoutedEventArgs e)
         {
-            SaveProfile();   // ← on sauvegarde avant de quitter
+            ProfileManager.Save(_profile);
 
             foreach (Window w in Application.Current.Windows)
             {
-                if (w is MainWindow main)
+                if (w is MainWindow)
                 {
-                    // Transmettre la bibliothèque à jour à la MainWindow si besoin
-                    main.Show();
+                    w.Show();
                     break;
                 }
             }
@@ -62,38 +110,11 @@ namespace Project_Book_App
 
         private void WishList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            // Logique de sélection à compléter si nécessaire
         }
 
-        private void Read_Click(object sender, RoutedEventArgs e)
-        {
-            // Marquer le livre sélectionné comme lu
-            if (WishList.SelectedItem is BookEntry selected)
-            {
-                // Déplacer de la WishList vers la Library avec isRead = true
-                _profile.WishList.Remove(selected);
-                selected.IsRead = true;
-                _profile.Library.Add(selected);
-
-                // Rafraîchir l'affichage
-                WishList.ItemsSource = null;
-                WishList.ItemsSource = _profile.WishList;
-
-                ReadBooks.Text = _profile.Library.Count(b => b.IsRead).ToString();
-
-                SaveProfile();
-            }
-            else
-            {
-                // Comportement original si rien n'est sélectionné
-                ReadBooks.Text = "0";
-            }
-        }
-
-        // Sauvegarder aussi si on ferme la fenêtre directement
         protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
         {
-            SaveProfile();
+            ProfileManager.Save(_profile);
             base.OnClosing(e);
         }
     }
