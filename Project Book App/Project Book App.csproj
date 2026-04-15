@@ -194,27 +194,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="books background 2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="books background 3.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="books background 4.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="book background 5.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="bookshelf.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="background profile.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="main window.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="main.jpg" />
   </ItemGroup>
   <ItemGroup>

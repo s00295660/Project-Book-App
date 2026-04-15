@@ -31,22 +31,20 @@ namespace Project_Book_App
             {
                 _profile = found;
                 MessageBox.Show("Bienvenue " + _profile.Username + " !", "Profil chargé",
-                    MessageBoxButton.OK, MessageBoxImage.Information);
+                    MessageBoxButton.OK, MessageBoxImage.Exclamation);
             }
             else
             {
                 _profile = new UserProfile { Username = name };
                 ProfileManager.Save(_profile);
                 MessageBox.Show("Nouveau profil créé pour " + name + " !", "Nouveau profil",
-                    MessageBoxButton.OK, MessageBoxImage.Information);
+                    MessageBoxButton.OK, MessageBoxImage.Exclamation);
             }
 
-            // Rafraîchir la WishList
             WishList.ItemsSource = null;
             WishList.ItemsSource = _profile.WishList;
             ReadBooks.Text = _profile.Library.Count.ToString();
 
-            // Rafraîchir la Library dans Window2
             foreach (Window w in Application.Current.Windows)
             {
                 if (w is Window2 window2)
@@ -84,7 +82,7 @@ namespace Project_Book_App
                 ReadBooks.Text = _profile.Library.Count.ToString();
 
                 MessageBox.Show("« " + selected.Title + " » ajouté à la Library !",
-                    "Library", MessageBoxButton.OK, MessageBoxImage.Information);
+                    "Library", MessageBoxButton.OK, MessageBoxImage.Exclamation);
             }
             else
             {

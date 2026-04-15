@@ -40,7 +40,6 @@ namespace Project_Book_App
             {
                 _selectedBook = book;
 
-                // Charger la review existante pour ce livre
                 foreach (Window w in Application.Current.Windows)
                 {
                     if (w is Window3 window3)
@@ -48,7 +47,7 @@ namespace Project_Book_App
                         var review = window3._profile.Reviews
                             .FirstOrDefault(r => r.Isbn == book.Isbn);
 
-                        if (review != null)
+                        if (review != null) 
                         {
                             RatingBar.Value = review.Grade;
                             CommentBox.Text = review.Comment;
