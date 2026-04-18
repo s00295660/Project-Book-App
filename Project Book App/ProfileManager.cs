@@ -5,20 +5,6 @@ using System.Linq;
 
 namespace Project_Book_App
 {
-    public class BookReview
-    {
-        public string Isbn { get; set; } = "";
-        public int Grade { get; set; } = 0;
-        public string Comment { get; set; } = "";
-    }
-
-    public class UserProfile
-    {
-        public string Username { get; set; } = "";
-        public List<Book> WishList { get; set; } = new List<Book>();
-        public List<Book> Library { get; set; } = new List<Book>();
-        public List<BookReview> Reviews { get; set; } = new List<BookReview>();
-    }
 
     public static class ProfileManager
     {

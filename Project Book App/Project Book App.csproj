@@ -107,7 +107,9 @@
     </ApplicationDefinition>
     <Compile Include="Book.cs" />
     <Compile Include="Bookrepository.cs" />
+    <Compile Include="BookReview.cs" />
     <Compile Include="ProfileManager.cs" />
+    <Compile Include="UserProfile.cs" />
     <Compile Include="Window1.xaml.cs">
       <DependentUpon>Window1.xaml</DependentUpon>
     </Compile>
